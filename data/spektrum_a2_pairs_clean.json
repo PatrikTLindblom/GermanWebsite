@@ -1,0 +1,7402 @@
+[
+  {
+    "de": "Wie heißen Sie?/Wie ist Ihr Name?",
+    "en": "What is your name?",
+    "deVariants": [
+      "Wie heißen Sie?/Wie ist Ihr Name?",
+      "Wie heißt du?/Wie ist dein Name?"
+    ],
+    "enVariants": [
+      "What is your name?"
+    ],
+    "topic": "Fragen und Antworten zur Person"
+  },
+  {
+    "de": "Woher kommen Sie?",
+    "en": "Where do you come from?",
+    "deVariants": [
+      "Woher kommen Sie?",
+      "Woher kommst du?"
+    ],
+    "enVariants": [
+      "Where do you come from?"
+    ],
+    "topic": "Fragen und Antworten zur Person"
+  },
+  {
+    "de": "Wo wohnen Sie?",
+    "en": "I come from (Greece).",
+    "deVariants": [
+      "Wo wohnen Sie?",
+      "Wo wohnst du?"
+    ],
+    "enVariants": [
+      "I come from (Greece)."
+    ],
+    "topic": "Fragen und Antworten zur Person"
+  },
+  {
+    "de": "Welche Sprachen sprechen Sie?",
+    "en": "I live in (Munich).",
+    "deVariants": [
+      "Welche Sprachen sprechen Sie?",
+      "Welche Sprachen sprichst du?"
+    ],
+    "enVariants": [
+      "I live in (Munich)."
+    ],
+    "topic": "Fragen und Antworten zur Person"
+  },
+  {
+    "de": "Was ist Ihre Muttersprache?",
+    "en": "I speak (Greek, German and English).",
+    "deVariants": [
+      "Was ist Ihre Muttersprache?",
+      "Was ist deine Muttersprache?"
+    ],
+    "enVariants": [
+      "I speak (Greek, German and English)."
+    ],
+    "topic": "Fragen und Antworten zur Person"
+  },
+  {
+    "de": "Was sind Sie von Beruf?/Was machen Sie beruflich?",
+    "en": "My native language is (Greek).",
+    "deVariants": [
+      "Was sind Sie von Beruf?/Was machen Sie beruflich?",
+      "Was bist du von Beruf?/Was machst du beruflich?"
+    ],
+    "enVariants": [
+      "My native language is (Greek)."
+    ],
+    "topic": "Fragen und Antworten zur Person"
+  },
+  {
+    "de": "Experimente durchführen",
+    "en": "study in the library",
+    "deVariants": [
+      "Experimente durchführen"
+    ],
+    "enVariants": [
+      "study in the library"
+    ],
+    "topic": "Tätigkeiten an der Universität"
+  },
+  {
+    "de": "Untersuchungsergebnisse präsentieren",
+    "en": "conduct experiments",
+    "deVariants": [
+      "Untersuchungsergebnisse präsentieren"
+    ],
+    "enVariants": [
+      "conduct experiments"
+    ],
+    "topic": "Tätigkeiten an der Universität"
+  },
+  {
+    "de": "Vorlesungen und Seminare besuchen",
+    "en": "present research results",
+    "deVariants": [
+      "Vorlesungen und Seminare besuchen"
+    ],
+    "enVariants": [
+      "present research results"
+    ],
+    "topic": "Tätigkeiten an der Universität"
+  },
+  {
+    "de": "mit (der Semesterarbeit) beginnen",
+    "en": "attend lectures and seminars",
+    "deVariants": [
+      "mit (der Semesterarbeit) beginnen"
+    ],
+    "enVariants": [
+      "attend lectures and seminars"
+    ],
+    "topic": "Tätigkeiten an der Universität"
+  },
+  {
+    "de": "eine Prüfung haben",
+    "en": "start with (the term paper)",
+    "deVariants": [
+      "eine Prüfung haben"
+    ],
+    "enVariants": [
+      "start with (the term paper)"
+    ],
+    "topic": "Tätigkeiten an der Universität"
+  },
+  {
+    "de": "Fußball spielen",
+    "en": "do sports",
+    "deVariants": [
+      "Fußball spielen"
+    ],
+    "enVariants": [
+      "do sports"
+    ],
+    "topic": "Freizeitaktivitäten"
+  },
+  {
+    "de": "eine Mannschaft trainieren",
+    "en": "play football",
+    "deVariants": [
+      "eine Mannschaft trainieren"
+    ],
+    "enVariants": [
+      "play football"
+    ],
+    "topic": "Freizeitaktivitäten"
+  },
+  {
+    "de": "mit Freunden reden",
+    "en": "train a team",
+    "deVariants": [
+      "mit Freunden reden"
+    ],
+    "enVariants": [
+      "train a team"
+    ],
+    "topic": "Freizeitaktivitäten"
+  },
+  {
+    "de": "mit Freunden telefonieren",
+    "en": "meet friends",
+    "deVariants": [
+      "mit Freunden telefonieren"
+    ],
+    "enVariants": [
+      "meet friends"
+    ],
+    "topic": "Freizeitaktivitäten"
+  },
+  {
+    "de": "Musik hören",
+    "en": "learn languages",
+    "deVariants": [
+      "Musik hören"
+    ],
+    "enVariants": [
+      "learn languages"
+    ],
+    "topic": "Freizeitaktivitäten"
+  },
+  {
+    "de": "etwas für die Gesundheit tun",
+    "en": "talk with friends over the phone",
+    "deVariants": [
+      "etwas für die Gesundheit tun"
+    ],
+    "enVariants": [
+      "talk with friends over the phone"
+    ],
+    "topic": "Freizeitaktivitäten"
+  },
+  {
+    "de": "etwas Schönes machen",
+    "en": "read the newspaper",
+    "deVariants": [
+      "etwas Schönes machen"
+    ],
+    "enVariants": [
+      "read the newspaper"
+    ],
+    "topic": "Freizeitaktivitäten"
+  },
+  {
+    "de": "etwas mit Freunden unternehmen",
+    "en": "ride a car/bicycle",
+    "deVariants": [
+      "etwas mit Freunden unternehmen"
+    ],
+    "enVariants": [
+      "ride a car/bicycle",
+      "ride a car",
+      "bicycle"
+    ],
+    "topic": "Freizeitaktivitäten"
+  },
+  {
+    "de": "wie ein Märchenschloss aussehen",
+    "en": "look like a castle in a fairy tale",
+    "deVariants": [
+      "wie ein Märchenschloss aussehen"
+    ],
+    "enVariants": [
+      "look like a castle in a fairy tale"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "aus dem 19. Jahrhundert stammen",
+    "en": "originate in the 19th century",
+    "deVariants": [
+      "aus dem 19. Jahrhundert stammen"
+    ],
+    "enVariants": [
+      "originate in the 19th century"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "als das schönste Schloss in Bayern gelten",
+    "en": "be known as the most beautiful castle in Bavaria",
+    "deVariants": [
+      "als das schönste Schloss in Bayern gelten"
+    ],
+    "enVariants": [
+      "be known as the most beautiful castle in Bavaria"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "ein Wahrzeichen der Stadt sein",
+    "en": "be a symbol of the city",
+    "deVariants": [
+      "ein Wahrzeichen der Stadt sein"
+    ],
+    "enVariants": [
+      "be a symbol of the city"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "ein Magnet für Touristen aus aller Welt sein",
+    "en": "be a magnet for tourists from all over the world",
+    "deVariants": [
+      "ein Magnet für Touristen aus aller Welt sein"
+    ],
+    "enVariants": [
+      "be a magnet for tourists from all over the world"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "berühmt für (die wunderschönen Gärten) sein",
+    "en": "be famous for (the beautiful gardens)",
+    "deVariants": [
+      "berühmt für (die wunderschönen Gärten) sein"
+    ],
+    "enVariants": [
+      "be famous for (the beautiful gardens)"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "zu den größten mittelalterlichen Burgen in Europa zählen",
+    "en": "count amongst the biggest fortresses from the Middle Ages in Europe",
+    "deVariants": [
+      "zu den größten mittelalterlichen Burgen in Europa zählen"
+    ],
+    "enVariants": [
+      "count amongst the biggest fortresses from the Middle Ages in Europe"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "den Titel (Bester Zoo Europas) gewinnen",
+    "en": "win the title (Best Zoo in Europe)",
+    "deVariants": [
+      "den Titel (Bester Zoo Europas) gewinnen"
+    ],
+    "enVariants": [
+      "win the title (Best Zoo in Europe)"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "eine wunderschöne Altstadt haben",
+    "en": "have a beautiful historical centre",
+    "deVariants": [
+      "eine wunderschöne Altstadt haben"
+    ],
+    "enVariants": [
+      "have a beautiful historical centre"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "südlich/westlich/nördlich/östlich von (München) liegen",
+    "en": "be located south/west/north/east from (Munich)",
+    "deVariants": [
+      "südlich/westlich/nördlich/östlich von (München) liegen",
+      "südlich",
+      "westlich",
+      "nördlich",
+      "östlich von (München) liegen"
+    ],
+    "enVariants": [
+      "be located south/west/north/east from (Munich)",
+      "be located south",
+      "west",
+      "north",
+      "east from (Munich)"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "im Süden/Westen/Osten/Norden von (Deutschland) liegen",
+    "en": "be located in the South/West/East/North of (Germany)",
+    "deVariants": [
+      "im Süden/Westen/Osten/Norden von (Deutschland) liegen",
+      "im Süden",
+      "Westen",
+      "Osten",
+      "Norden von (Deutschland) liegen"
+    ],
+    "enVariants": [
+      "be located in the South/West/East/North of (Germany)",
+      "be located in the South",
+      "West",
+      "East",
+      "North of (Germany)"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "Möglichkeiten zur Übernachtung bieten",
+    "en": "offer overnight accommodations",
+    "deVariants": [
+      "Möglichkeiten zur Übernachtung bieten"
+    ],
+    "enVariants": [
+      "offer overnight accommodations"
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "Die durchschnittliche Jahrestemperatur beträgt (minus 4,2 Grad).",
+    "en": "The average yearly temperature is (-4,2 ˚C).",
+    "deVariants": [
+      "Die durchschnittliche Jahrestemperatur beträgt (minus 4,2 Grad)."
+    ],
+    "enVariants": [
+      "The average yearly temperature is (-4,2 ˚C)."
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "Der Bau (des Doms) hat (632 Jahre) gedauert.",
+    "en": "The building of (the cathedral) took (632 years).",
+    "deVariants": [
+      "Der Bau (des Doms) hat (632 Jahre) gedauert."
+    ],
+    "enVariants": [
+      "The building of (the cathedral) took (632 years)."
+    ],
+    "topic": "Ausflugsziele"
+  },
+  {
+    "de": "einen Ausflug machen/buchen",
+    "en": "go on/book an excursion",
+    "deVariants": [
+      "einen Ausflug machen/buchen",
+      "einen Ausflug machen",
+      "buchen"
+    ],
+    "enVariants": [
+      "go on/book an excursion",
+      "go on",
+      "book an excursion"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "(Berge/Museen/Städte) interessant/langweilig/toll/beeindruckend/sehenswert finden",
+    "en": "find (mountains/museums/cities) interesting/boring/nice/impressive/worth seeing",
+    "deVariants": [
+      "(Berge/Museen/Städte) interessant/langweilig/toll/beeindruckend/sehenswert finden",
+      "(Berge",
+      "Museen",
+      "Städte) interessant",
+      "langweilig",
+      "toll",
+      "beeindruckend",
+      "sehenswert finden"
+    ],
+    "enVariants": [
+      "find (mountains/museums/cities) interesting/boring/nice/impressive/worth seeing",
+      "find (mountains",
+      "museums",
+      "cities) interesting",
+      "boring",
+      "nice",
+      "impressive",
+      "worth seeing"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "Der Ausflug (nach Salzburg) gefällt mir am besten.",
+    "en": "I like the trip (to Salzburg) most.",
+    "deVariants": [
+      "Der Ausflug (nach Salzburg) gefällt mir am besten."
+    ],
+    "enVariants": [
+      "I like the trip (to Salzburg) most."
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "ein berühmtes Ausflugsziel sein/vorstellen",
+    "en": "be/represent a famous tourist destination",
+    "deVariants": [
+      "ein berühmtes Ausflugsziel sein/vorstellen",
+      "ein berühmtes Ausflugsziel sein",
+      "vorstellen"
+    ],
+    "enVariants": [
+      "be/represent a famous tourist destination",
+      "be",
+      "represent a famous tourist destination"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "(3 Millionen) Besucher im Jahr haben",
+    "en": "have (3 million) visitors a year",
+    "deVariants": [
+      "(3 Millionen) Besucher im Jahr haben"
+    ],
+    "enVariants": [
+      "have (3 million) visitors a year"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "eine Stadt auf eine interessante Art kennenlernen",
+    "en": "be popular mainly with (young people)",
+    "deVariants": [
+      "eine Stadt auf eine interessante Art kennenlernen"
+    ],
+    "enVariants": [
+      "be popular mainly with (young people)"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "eine fantastische Aussicht bieten",
+    "en": "get to know a city in an interesting way",
+    "deVariants": [
+      "eine fantastische Aussicht bieten"
+    ],
+    "enVariants": [
+      "get to know a city in an interesting way"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "etwas Besonderes kaufen können",
+    "en": "offer a fantastic view",
+    "deVariants": [
+      "etwas Besonderes kaufen können"
+    ],
+    "enVariants": [
+      "offer a fantastic view"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "(Tatorte/ein Denkmal) besichtigen/sehen können",
+    "en": "be able to buy something special",
+    "deVariants": [
+      "(Tatorte/ein Denkmal) besichtigen/sehen können",
+      "(Tatorte",
+      "ein Denkmal) besichtigen",
+      "sehen können"
+    ],
+    "enVariants": [
+      "be able to buy something special"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "mit (der Seilbahn/einer Dampflokomotive) fahren",
+    "en": "be able to visit/see (crime scenes/a monument)",
+    "deVariants": [
+      "mit (der Seilbahn/einer Dampflokomotive) fahren",
+      "mit (der Seilbahn",
+      "einer Dampflokomotive) fahren"
+    ],
+    "enVariants": [
+      "be able to visit/see (crime scenes/a monument)",
+      "be able to visit",
+      "see (crime scenes",
+      "a monument)"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "(das Technikmuseum) besuchen",
+    "en": "travel by (cable way/steam locomotive)",
+    "deVariants": [
+      "(das Technikmuseum) besuchen"
+    ],
+    "enVariants": [
+      "travel by (cable way/steam locomotive)",
+      "travel by (cable way",
+      "steam locomotive)"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "warme Kleidung tragen müssen",
+    "en": "visit (the Museum of Technology)",
+    "deVariants": [
+      "warme Kleidung tragen müssen"
+    ],
+    "enVariants": [
+      "visit (the Museum of Technology)"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "Das musst du unbedingt sehen!",
+    "en": "need to wear warm clothes",
+    "deVariants": [
+      "Das musst du unbedingt sehen!"
+    ],
+    "enVariants": [
+      "need to wear warm clothes"
+    ],
+    "topic": "Über Ausflugsziele sprechen"
+  },
+  {
+    "de": "Ich hätte gern ein paar Informationen über (den Zoo Leipzig).",
+    "en": "I would like to have some information about (the Leipzig Zoo).",
+    "deVariants": [
+      "Ich hätte gern ein paar Informationen über (den Zoo Leipzig)."
+    ],
+    "enVariants": [
+      "I would like to have some information about (the Leipzig Zoo)."
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Ich brauche bitte eine Auskunft zu (Öffnungszeiten und Preisen).",
+    "en": "Am I talking to the right person?",
+    "deVariants": [
+      "Ich brauche bitte eine Auskunft zu (Öffnungszeiten und Preisen)."
+    ],
+    "enVariants": [
+      "Am I talking to the right person?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Wann hat (das Museum) geöffnet?",
+    "en": "I would like to know (the opening times and the prices).",
+    "deVariants": [
+      "Wann hat (das Museum) geöffnet?"
+    ],
+    "enVariants": [
+      "I would like to know (the opening times and the prices)."
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Hat (das Museum) jeden Tag geöffnet?",
+    "en": "When is (the museum) open?",
+    "deVariants": [
+      "Hat (das Museum) jeden Tag geöffnet?"
+    ],
+    "enVariants": [
+      "When is (the museum) open?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Wie viel kostet eine Eintrittskarte (für Erwachsene/ für Kinder)?",
+    "en": "Is (the museum) open every day?",
+    "deVariants": [
+      "Wie viel kostet eine Eintrittskarte (für Erwachsene/ für Kinder)?"
+    ],
+    "enVariants": [
+      "Is (the museum) open every day?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Was gibt es im Moment für besondere Attraktionen (im Zoo)?",
+    "en": "How much does an entrance ticket cost (for adults/ children)?",
+    "deVariants": [
+      "Was gibt es im Moment für besondere Attraktionen (im Zoo)?"
+    ],
+    "enVariants": [
+      "How much does an entrance ticket cost (for adults/ children)?",
+      "How much does an entrance ticket cost (for adults",
+      "children)?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Gibt es eine Sonderausstellung?",
+    "en": "What kind of special attractions are there (at the zoo)?",
+    "deVariants": [
+      "Gibt es eine Sonderausstellung?"
+    ],
+    "enVariants": [
+      "What kind of special attractions are there (at the zoo)?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Gibt es auch ein Restaurant?",
+    "en": "Is there a special exhibition?",
+    "deVariants": [
+      "Gibt es auch ein Restaurant?"
+    ],
+    "enVariants": [
+      "Is there a special exhibition?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Wie lange dauert der Ausflug/die Führung?",
+    "en": "Is there also a restaurant?",
+    "deVariants": [
+      "Wie lange dauert der Ausflug/die Führung?"
+    ],
+    "enVariants": [
+      "Is there also a restaurant?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Was kann man erleben/sehen?",
+    "en": "How long does the trip/guided tour take?",
+    "deVariants": [
+      "Was kann man erleben/sehen?"
+    ],
+    "enVariants": [
+      "How long does the trip/guided tour take?",
+      "How long does the trip",
+      "guided tour take?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Gibt es Parkplätze?",
+    "en": "What can you experience/see?",
+    "deVariants": [
+      "Gibt es Parkplätze?"
+    ],
+    "enVariants": [
+      "What can you experience/see?",
+      "What can you experience",
+      "see?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "Das klingt sehr gut. Vielen Dank für die Informationen.",
+    "en": "Are there parking spaces?",
+    "deVariants": [
+      "Das klingt sehr gut. Vielen Dank für die Informationen."
+    ],
+    "enVariants": [
+      "Are there parking spaces?"
+    ],
+    "topic": "Informationen erfragen"
+  },
+  {
+    "de": "ein Haustier/ein Lieblingstier haben",
+    "en": "find animals fascinating",
+    "deVariants": [
+      "ein Haustier/ein Lieblingstier haben",
+      "ein Haustier",
+      "ein Lieblingstier haben"
+    ],
+    "enVariants": [
+      "find animals fascinating"
+    ],
+    "topic": "Tiere"
+  },
+  {
+    "de": "vor Tieren Angst haben",
+    "en": "have a pet/favourite animal",
+    "deVariants": [
+      "vor Tieren Angst haben"
+    ],
+    "enVariants": [
+      "have a pet/favourite animal",
+      "have a pet",
+      "favourite animal"
+    ],
+    "topic": "Tiere"
+  },
+  {
+    "de": "einige Tiere: die Ameise, der Affe, der Bär, der Fisch, der Hund, der Löwe, die Maus, die Mücke, das Pferd, die Schlange, die Spinne, der Wal",
+    "en": "be scared of animals",
+    "deVariants": [
+      "einige Tiere: die Ameise, der Affe, der Bär, der Fisch, der Hund, der Löwe, die Maus, die Mücke, das Pferd, die Schlange, die Spinne, der Wal"
+    ],
+    "enVariants": [
+      "be scared of animals"
+    ],
+    "topic": "Tiere"
+  },
+  {
+    "de": "Tipps zur gesunden Ernährung geben",
+    "en": "give tips for a healthy diet",
+    "deVariants": [
+      "Tipps zur gesunden Ernährung geben"
+    ],
+    "enVariants": [
+      "give tips for a healthy diet"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "ein Lieblingsgericht haben",
+    "en": "have a favourite dish",
+    "deVariants": [
+      "ein Lieblingsgericht haben"
+    ],
+    "enVariants": [
+      "have a favourite dish"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "am liebsten (Nudeln) essen",
+    "en": "like (pasta) the most",
+    "deVariants": [
+      "am liebsten (Nudeln) essen"
+    ],
+    "enVariants": [
+      "like (pasta) the most"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "täglich (Fleisch/Obst und Gemüse) essen",
+    "en": "be vegetarian",
+    "deVariants": [
+      "täglich (Fleisch/Obst und Gemüse) essen",
+      "täglich (Fleisch",
+      "Obst und Gemüse) essen"
+    ],
+    "enVariants": [
+      "be vegetarian"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Süßigkeiten mögen",
+    "en": "eat (meat/fruit and vegetables) every day",
+    "deVariants": [
+      "Süßigkeiten mögen"
+    ],
+    "enVariants": [
+      "eat (meat/fruit and vegetables) every day",
+      "eat (meat",
+      "fruit and vegetables) every day"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "nach eigenen Angaben gut kochen können",
+    "en": "like sweets",
+    "deVariants": [
+      "nach eigenen Angaben gut kochen können"
+    ],
+    "enVariants": [
+      "like sweets"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "(die eigenen Kochkünste) loben",
+    "en": "cook well according to one's own opinion",
+    "deVariants": [
+      "(die eigenen Kochkünste) loben"
+    ],
+    "enVariants": [
+      "cook well according to one's own opinion"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Lebensmittel im Supermarkt/auf dem Markt/beim Biobauern kaufen",
+    "en": "praise (one's own cooking)",
+    "deVariants": [
+      "Lebensmittel im Supermarkt/auf dem Markt/beim Biobauern kaufen",
+      "Lebensmittel im Supermarkt",
+      "auf dem Markt",
+      "beim Biobauern kaufen"
+    ],
+    "enVariants": [
+      "praise (one's own cooking)"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "eine große Rolle (beim Einkaufen) spielen",
+    "en": "cook food/meals oneself/fresh",
+    "deVariants": [
+      "eine große Rolle (beim Einkaufen) spielen"
+    ],
+    "enVariants": [
+      "cook food/meals oneself/fresh",
+      "cook food",
+      "meals oneself",
+      "fresh"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "auf die Qualität/die Herkunft/den Preis der Lebensmittel achten",
+    "en": "buy/eat ready-made meals",
+    "deVariants": [
+      "auf die Qualität/die Herkunft/den Preis der Lebensmittel achten",
+      "auf die Qualität",
+      "die Herkunft",
+      "den Preis der Lebensmittel achten"
+    ],
+    "enVariants": [
+      "buy/eat ready-made meals",
+      "buy",
+      "eat ready-made meals"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "im Internet nach (Produktinformationen) suchen",
+    "en": "buy food at the supermarket/at the market/from an organic farmer",
+    "deVariants": [
+      "im Internet nach (Produktinformationen) suchen"
+    ],
+    "enVariants": [
+      "buy food at the supermarket/at the market/from an organic farmer",
+      "buy food at the supermarket",
+      "at the market",
+      "from an organic farmer"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "neben dem Essen fernsehen",
+    "en": "play an important role (in shopping)",
+    "deVariants": [
+      "neben dem Essen fernsehen"
+    ],
+    "enVariants": [
+      "play an important role (in shopping)"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "zu wenig Zeit für gesunde Ernährung haben",
+    "en": "pay attention to the quality/origin/price of the food",
+    "deVariants": [
+      "zu wenig Zeit für gesunde Ernährung haben"
+    ],
+    "enVariants": [
+      "pay attention to the quality/origin/price of the food",
+      "pay attention to the quality",
+      "origin",
+      "price of the food"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Obst: der Apfel, die Erdbeere, die Birne",
+    "en": "look for (product information) on the Internet",
+    "deVariants": [
+      "Obst: der Apfel, die Erdbeere, die Birne"
+    ],
+    "enVariants": [
+      "look for (product information) on the Internet"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Gemüse: die Tomate, die Gurke, der Kohl",
+    "en": "compare prices",
+    "deVariants": [
+      "Gemüse: die Tomate, die Gurke, der Kohl"
+    ],
+    "enVariants": [
+      "compare prices"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Fleisch: das Rindfleisch, das Schweinefleisch",
+    "en": "watch TV while eating",
+    "deVariants": [
+      "Fleisch: das Rindfleisch, das Schweinefleisch"
+    ],
+    "enVariants": [
+      "watch TV while eating"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Fisch: der Hering, der Lachs",
+    "en": "have not enough time to eat healthy",
+    "deVariants": [
+      "Fisch: der Hering, der Lachs"
+    ],
+    "enVariants": [
+      "have not enough time to eat healthy"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Milchprodukte: der Joghurt, die Sahne",
+    "en": "Fruit: apple, strawberry, pear",
+    "deVariants": [
+      "Milchprodukte: der Joghurt, die Sahne"
+    ],
+    "enVariants": [
+      "Fruit: apple, strawberry, pear"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Getreideprodukte: die Nudeln, das Brot",
+    "en": "Vegetables: tomato, cucumber, cabbage",
+    "deVariants": [
+      "Getreideprodukte: die Nudeln, das Brot"
+    ],
+    "enVariants": [
+      "Vegetables: tomato, cucumber, cabbage"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "Backwaren: der Kuchen, der Keks",
+    "en": "Meat: beef, pork",
+    "deVariants": [
+      "Backwaren: der Kuchen, der Keks"
+    ],
+    "enVariants": [
+      "Meat: beef, pork"
+    ],
+    "topic": "Essgewohnheiten und Lebensmittel"
+  },
+  {
+    "de": "einen Michelin-Stern bekommen",
+    "en": "receive a Michelin star",
+    "deVariants": [
+      "einen Michelin-Stern bekommen"
+    ],
+    "enVariants": [
+      "receive a Michelin star"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "ein Geheimtipp sein",
+    "en": "be an insider's tip",
+    "deVariants": [
+      "ein Geheimtipp sein"
+    ],
+    "enVariants": [
+      "be an insider's tip"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "zu den großen Köchen gehören",
+    "en": "count amongst the well-known chefs",
+    "deVariants": [
+      "zu den großen Köchen gehören"
+    ],
+    "enVariants": [
+      "count amongst the well-known chefs"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "den Eltern beim Kochen zusehen",
+    "en": "watch the parents when they are cooking",
+    "deVariants": [
+      "den Eltern beim Kochen zusehen"
+    ],
+    "enVariants": [
+      "watch the parents when they are cooking"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "die/mit der Ausbildung beginnen",
+    "en": "start one's training",
+    "deVariants": [
+      "die/mit der Ausbildung beginnen",
+      "die",
+      "mit der Ausbildung beginnen"
+    ],
+    "enVariants": [
+      "start one's training"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "das Studium abbrechen",
+    "en": "drop out of university",
+    "deVariants": [
+      "das Studium abbrechen"
+    ],
+    "enVariants": [
+      "drop out of university"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "eine Idee realisieren",
+    "en": "realise a dream",
+    "deVariants": [
+      "eine Idee realisieren"
+    ],
+    "enVariants": [
+      "realise a dream"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "ein Restaurant eröffnen",
+    "en": "open a restaurant",
+    "deVariants": [
+      "ein Restaurant eröffnen"
+    ],
+    "enVariants": [
+      "open a restaurant"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "(das Gericht) würzen",
+    "en": "like to/often cook from a recipe",
+    "deVariants": [
+      "(das Gericht) würzen"
+    ],
+    "enVariants": [
+      "like to/often cook from a recipe",
+      "like to",
+      "often cook from a recipe"
+    ],
+    "topic": "Köche und kochen"
+  },
+  {
+    "de": "Was darf es sein?",
+    "en": "What would you like?",
+    "deVariants": [
+      "Was darf es sein?"
+    ],
+    "enVariants": [
+      "What would you like?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Ich möchte bitte/hätte gern/brauche (2 Kilo Rindfleisch).",
+    "en": "I'd like to have (2 kilos of beef).",
+    "deVariants": [
+      "Ich möchte bitte/hätte gern/brauche (2 Kilo Rindfleisch).",
+      "Ich möchte bitte",
+      "hätte gern",
+      "brauche (2 Kilo Rindfleisch)."
+    ],
+    "enVariants": [
+      "I'd like to have (2 kilos of beef)."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Möchten Sie noch etwas?/Kommt noch was dazu?",
+    "en": "Would you like anything else?",
+    "deVariants": [
+      "Möchten Sie noch etwas?/Kommt noch was dazu?",
+      "Möchtest du noch etwas?/Kommt noch was dazu?"
+    ],
+    "enVariants": [
+      "Would you like anything else?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Ich nehme/möchte noch (Käse mit frischen Kräutern).",
+    "en": "I would also take/like (cheese with fresh herbs).",
+    "deVariants": [
+      "Ich nehme/möchte noch (Käse mit frischen Kräutern).",
+      "Ich nehme",
+      "möchte noch (Käse mit frischen Kräutern)."
+    ],
+    "enVariants": [
+      "I would also take/like (cheese with fresh herbs).",
+      "I would also take",
+      "like (cheese with fresh herbs)."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Wie viel darf es denn sein? (100 Gramm, ein halbes Kilo, ein Kilo).",
+    "en": "How much would you like of it? (100 grams, half a kilo, one kilo).",
+    "deVariants": [
+      "Wie viel darf es denn sein? (100 Gramm, ein halbes Kilo, ein Kilo)."
+    ],
+    "enVariants": [
+      "How much would you like of it? (100 grams, half a kilo, one kilo)."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Wir haben heute (Schinken) im Angebot. Möchten Sie mal probieren?",
+    "en": "We have (ham) on offer today. Would you like to try?",
+    "deVariants": [
+      "Wir haben heute (Schinken) im Angebot. Möchten Sie mal probieren?",
+      "Wir haben heute (Schinken) im Angebot. Möchtest du mal probieren?"
+    ],
+    "enVariants": [
+      "We have (ham) on offer today. Would you like to try?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Ja, gerne. (Der Schinken) schmeckt gut./Nein, danke.",
+    "en": "Yes, please. (The ham) tastes good./No, thank you.",
+    "deVariants": [
+      "Ja, gerne. (Der Schinken) schmeckt gut./Nein, danke.",
+      "Ja, gerne. (Der Schinken) schmeckt gut.",
+      "Nein, danke."
+    ],
+    "enVariants": [
+      "Yes, please. (The ham) tastes good./No, thank you.",
+      "Yes, please. (The ham) tastes good.",
+      "No, thank you."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "(Diese Tomaten) sehen gut aus. Wie viel kosten (die Tomaten)?",
+    "en": "(These tomatoes) look nice. How much do (the tomatoes) cost?",
+    "deVariants": [
+      "(Diese Tomaten) sehen gut aus. Wie viel kosten (die Tomaten)?"
+    ],
+    "enVariants": [
+      "(These tomatoes) look nice. How much do (the tomatoes) cost?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Ist das alles?",
+    "en": "(2,50 euros).",
+    "deVariants": [
+      "Ist das alles?"
+    ],
+    "enVariants": [
+      "(2,50 euros)."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Ja, das ist alles.",
+    "en": "Is that it?",
+    "deVariants": [
+      "Ja, das ist alles."
+    ],
+    "enVariants": [
+      "Is that it?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Das macht (27,90 Euro)./Dann bekomme ich (27,90 Euro).",
+    "en": "Yes, that's it.",
+    "deVariants": [
+      "Das macht (27,90 Euro)./Dann bekomme ich (27,90 Euro).",
+      "Das macht (27,90 Euro).",
+      "Dann bekomme ich (27,90 Euro)."
+    ],
+    "enVariants": [
+      "Yes, that's it."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Haben Sie reserviert?",
+    "en": "Did you make a reservation?",
+    "deVariants": [
+      "Haben Sie reserviert?",
+      "Hast du reserviert?"
+    ],
+    "enVariants": [
+      "Did you make a reservation?"
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Ich habe einen Tisch für zwei Personen reserviert, auf den Namen (Lange).",
+    "en": "I have a table for two persons for (Lange).",
+    "deVariants": [
+      "Ich habe einen Tisch für zwei Personen reserviert, auf den Namen (Lange)."
+    ],
+    "enVariants": [
+      "I have a table for two persons for (Lange)."
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Ich möchte lieber (am Fenster) sitzen.",
+    "en": "We would prefer to sit (at the window).",
+    "deVariants": [
+      "Ich möchte lieber (am Fenster) sitzen."
+    ],
+    "enVariants": [
+      "We would prefer to sit (at the window)."
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Was möchten Sie essen/trinken?/Haben Sie schon gewählt?",
+    "en": "What would you like to eat/drink?/Have you decided yet?",
+    "deVariants": [
+      "Was möchten Sie essen/trinken?/Haben Sie schon gewählt?",
+      "Was möchten Sie essen/trinken?/Hast du schon gewählt?"
+    ],
+    "enVariants": [
+      "What would you like to eat/drink?/Have you decided yet?",
+      "What would you like to eat",
+      "drink?",
+      "Have you decided yet?"
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Ich hätte gern/Ich möchte/Ich nehme (das Schnitzel mit Kartoffelsalat).",
+    "en": "I would like to have/I would like/I will take (the schnitzel with potato salad).",
+    "deVariants": [
+      "Ich hätte gern/Ich möchte/Ich nehme (das Schnitzel mit Kartoffelsalat).",
+      "Ich hätte gern",
+      "Ich möchte",
+      "Ich nehme (das Schnitzel mit Kartoffelsalat)."
+    ],
+    "enVariants": [
+      "I would like to have/I would like/I will take (the schnitzel with potato salad).",
+      "I would like to have",
+      "I would like",
+      "I will take (the schnitzel with potato salad)."
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Ich trinke (ein Mineralwasser).",
+    "en": "I will take a (mineral water).",
+    "deVariants": [
+      "Ich trinke (ein Mineralwasser)."
+    ],
+    "enVariants": [
+      "I will take a (mineral water)."
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Haben Sie meine Bestellung vergessen?",
+    "en": "Have you forgotten about my order?",
+    "deVariants": [
+      "Haben Sie meine Bestellung vergessen?",
+      "Hast du meine Bestellung vergessen?"
+    ],
+    "enVariants": [
+      "Have you forgotten about my order?"
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Guten Appetit!/Prost!/Zum Wohl!",
+    "en": "Enjoy your meal!/Cheers!",
+    "deVariants": [
+      "Guten Appetit!/Prost!/Zum Wohl!",
+      "Guten Appetit!",
+      "Prost!",
+      "Zum Wohl!"
+    ],
+    "enVariants": [
+      "Enjoy your meal!/Cheers!",
+      "Enjoy your meal!",
+      "Cheers!"
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Kann ich bitte noch (etwas Salz) haben?",
+    "en": "Can I have (some more salt) please?",
+    "deVariants": [
+      "Kann ich bitte noch (etwas Salz) haben?"
+    ],
+    "enVariants": [
+      "Can I have (some more salt) please?"
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Hat es Ihnen geschmeckt?/Waren Sie mit dem Essen zufrieden?",
+    "en": "How did you like your food? Are you satisfied with the food?",
+    "deVariants": [
+      "Hat es Ihnen geschmeckt?/Waren Sie mit dem Essen zufrieden?",
+      "Hat es dir geschmeckt?/Waren Sie mit dem Essen zufrieden?"
+    ],
+    "enVariants": [
+      "How did you like your food? Are you satisfied with the food?"
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Das Essen war hervorragend/köstlich/sehr gut.",
+    "en": "The food was excellent/delicious/very good.",
+    "deVariants": [
+      "Das Essen war hervorragend/köstlich/sehr gut.",
+      "Das Essen war hervorragend",
+      "köstlich",
+      "sehr gut."
+    ],
+    "enVariants": [
+      "The food was excellent/delicious/very good.",
+      "The food was excellent",
+      "delicious",
+      "very good."
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Wir möchten dann zahlen/bezahlen./Wir hätten gern die Rechnung.",
+    "en": "We would like to pay then./Can we have the bill?",
+    "deVariants": [
+      "Wir möchten dann zahlen/bezahlen./Wir hätten gern die Rechnung.",
+      "Wir möchten dann zahlen",
+      "bezahlen.",
+      "Wir hätten gern die Rechnung."
+    ],
+    "enVariants": [
+      "We would like to pay then./Can we have the bill?",
+      "We would like to pay then.",
+      "Can we have the bill?"
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "Zahlen Sie zusammen oder getrennt?",
+    "en": "Would you like to pay together or separately?",
+    "deVariants": [
+      "Zahlen Sie zusammen oder getrennt?"
+    ],
+    "enVariants": [
+      "Would you like to pay together or separately?"
+    ],
+    "topic": "Im Restaurant"
+  },
+  {
+    "de": "E-Mails öffnen/checken/lesen/beantworten/löschen/weiterleiten/ausdrucken",
+    "en": "open/check/read/answer/delete/forward/print out e-mails",
+    "deVariants": [
+      "E-Mails öffnen/checken/lesen/beantworten/löschen/weiterleiten/ausdrucken",
+      "E-Mails öffnen",
+      "checken",
+      "lesen",
+      "beantworten",
+      "löschen",
+      "weiterleiten",
+      "ausdrucken"
+    ],
+    "enVariants": [
+      "open/check/read/answer/delete/forward/print out e-mails",
+      "open",
+      "check",
+      "read",
+      "answer",
+      "delete",
+      "forward",
+      "print out e-mails"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "eine dringende Anfrage beantworten",
+    "en": "answer an urgent inquiry",
+    "deVariants": [
+      "eine dringende Anfrage beantworten"
+    ],
+    "enVariants": [
+      "answer an urgent inquiry"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "etwas kopieren/am Kopierer stehen",
+    "en": "copy something/stand next to the copy machine",
+    "deVariants": [
+      "etwas kopieren/am Kopierer stehen",
+      "etwas kopieren",
+      "am Kopierer stehen"
+    ],
+    "enVariants": [
+      "copy something/stand next to the copy machine",
+      "copy something",
+      "stand next to the copy machine"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "Dokumente/Berichte lesen/übersetzen",
+    "en": "create Excel tables",
+    "deVariants": [
+      "Dokumente/Berichte lesen/übersetzen",
+      "Dokumente",
+      "Berichte lesen",
+      "übersetzen"
+    ],
+    "enVariants": [
+      "create Excel tables"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "Geburtstage mit Kollegen feiern",
+    "en": "calculate something",
+    "deVariants": [
+      "Geburtstage mit Kollegen feiern"
+    ],
+    "enVariants": [
+      "calculate something"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "in der Kantine/am Schreibtisch essen",
+    "en": "make/postpone/cancel appointments",
+    "deVariants": [
+      "in der Kantine/am Schreibtisch essen",
+      "in der Kantine",
+      "am Schreibtisch essen"
+    ],
+    "enVariants": [
+      "make/postpone/cancel appointments",
+      "make",
+      "postpone",
+      "cancel appointments"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "an einem Geschäftsessen teilnehmen",
+    "en": "organise/book/do (business) trips",
+    "deVariants": [
+      "an einem Geschäftsessen teilnehmen"
+    ],
+    "enVariants": [
+      "organise/book/do (business) trips",
+      "organise",
+      "book",
+      "do (business) trips"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "mit Kollegen über andere Personen oder über Privates reden",
+    "en": "attend meetings",
+    "deVariants": [
+      "mit Kollegen über andere Personen oder über Privates reden"
+    ],
+    "enVariants": [
+      "attend meetings"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "im Internet surfen",
+    "en": "sit in (unproductive) meetings",
+    "deVariants": [
+      "im Internet surfen"
+    ],
+    "enVariants": [
+      "sit in (unproductive) meetings"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "online einkaufen",
+    "en": "write the minutes/reports/invoices",
+    "deVariants": [
+      "online einkaufen"
+    ],
+    "enVariants": [
+      "write the minutes/reports/invoices",
+      "write the minutes",
+      "reports",
+      "invoices"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "Pause/Überstunden machen",
+    "en": "read/translate documents/reports",
+    "deVariants": [
+      "Pause/Überstunden machen",
+      "Pause",
+      "Überstunden machen"
+    ],
+    "enVariants": [
+      "read/translate documents/reports",
+      "read",
+      "translate documents",
+      "reports"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "Gästen einen Kaffee anbieten",
+    "en": "receive/advise clients",
+    "deVariants": [
+      "Gästen einen Kaffee anbieten"
+    ],
+    "enVariants": [
+      "receive/advise clients",
+      "receive",
+      "advise clients"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "der Praktikantin das Haus zeigen",
+    "en": "celebrate birthdays with colleagues",
+    "deVariants": [
+      "der Praktikantin das Haus zeigen"
+    ],
+    "enVariants": [
+      "celebrate birthdays with colleagues"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "dem Informatiker die Fehlerliste schicken",
+    "en": "eat in the canteen/at your desk",
+    "deVariants": [
+      "dem Informatiker die Fehlerliste schicken"
+    ],
+    "enVariants": [
+      "eat in the canteen/at your desk",
+      "eat in the canteen",
+      "at your desk"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "der neuen Mitarbeiterin den Kopierer erklären",
+    "en": "attend a lunch/dinner meeting",
+    "deVariants": [
+      "der neuen Mitarbeiterin den Kopierer erklären"
+    ],
+    "enVariants": [
+      "attend a lunch/dinner meeting",
+      "attend a lunch",
+      "dinner meeting"
+    ],
+    "topic": "Tätigkeiten im Büro"
+  },
+  {
+    "de": "Ich möchte einen Termin vereinbaren.",
+    "en": "I'd like to make an appointment.",
+    "deVariants": [
+      "Ich möchte einen Termin vereinbaren."
+    ],
+    "enVariants": [
+      "I'd like to make an appointment."
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Wann haben Sie Zeit?",
+    "en": "When do you have time?",
+    "deVariants": [
+      "Wann haben Sie Zeit?"
+    ],
+    "enVariants": [
+      "When do you have time?"
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Haben Sie (am Mittwoch um 15.00 Uhr) Zeit?",
+    "en": "Do you have time (on Wednesday at 3 P.M.)?",
+    "deVariants": [
+      "Haben Sie (am Mittwoch um 15.00 Uhr) Zeit?",
+      "Hast du (am Mittwoch um 15.00 Uhr) Zeit?"
+    ],
+    "enVariants": [
+      "Do you have time (on Wednesday at 3 P.M.)?"
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Passt es Ihnen (am Mittwoch)?",
+    "en": "Does (Wednesday) suit you?",
+    "deVariants": [
+      "Passt es Ihnen (am Mittwoch)?"
+    ],
+    "enVariants": [
+      "Does (Wednesday) suit you?"
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Geht es vielleicht etwas eher/später? Zum Beispiel (am Donnerstag)?",
+    "en": "Would it be possible to meet earlier/later? On (Thursday) for example?",
+    "deVariants": [
+      "Geht es vielleicht etwas eher/später? Zum Beispiel (am Donnerstag)?"
+    ],
+    "enVariants": [
+      "Would it be possible to meet earlier/later? On (Thursday) for example?",
+      "Would it be possible to meet earlier",
+      "later? On (Thursday) for example?"
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Das ist auch möglich.",
+    "en": "That's also possible.",
+    "deVariants": [
+      "Das ist auch möglich."
+    ],
+    "enVariants": [
+      "That's also possible."
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "(Am Donnerstag) passt es mir.",
+    "en": "(Thursday) suits me alright.",
+    "deVariants": [
+      "(Am Donnerstag) passt es mir."
+    ],
+    "enVariants": [
+      "(Thursday) suits me alright."
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Tut mir leid, das ist leider nicht möglich.",
+    "en": "I'm sorry but that's not possible.",
+    "deVariants": [
+      "Tut mir leid, das ist leider nicht möglich."
+    ],
+    "enVariants": [
+      "I'm sorry but that's not possible."
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Wir haben (am Mittwoch um 15.00 Uhr) einen Termin. Können wir den Termin verschieben?",
+    "en": "We have an appointment (on Wednesday at 3 P.M.). Can we postpone the appointment?",
+    "deVariants": [
+      "Wir haben (am Mittwoch um 15.00 Uhr) einen Termin. Können wir den Termin verschieben?"
+    ],
+    "enVariants": [
+      "We have an appointment (on Wednesday at 3 P.M.). Can we postpone the appointment?"
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Vielen Dank für Ihr Verständnis.",
+    "en": "Many thanks for your understanding.",
+    "deVariants": [
+      "Vielen Dank für Ihr Verständnis."
+    ],
+    "enVariants": [
+      "Many thanks for your understanding."
+    ],
+    "topic": "Termine"
+  },
+  {
+    "de": "Was kann ich für Sie tun?",
+    "en": "What can I do for you?",
+    "deVariants": [
+      "Was kann ich für Sie tun?"
+    ],
+    "enVariants": [
+      "What can I do for you?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Kann ich bitte (Frau Stein) sprechen?",
+    "en": "Can I please talk to (Mrs. Stein)?",
+    "deVariants": [
+      "Kann ich bitte (Frau Stein) sprechen?"
+    ],
+    "enVariants": [
+      "Can I please talk to (Mrs. Stein)?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Ich möchte bitte (Herrn Grün) sprechen.",
+    "en": "Please tell her/him that (the documents haven't arrived yet.) She/He should call me back.",
+    "deVariants": [
+      "Ich möchte bitte (Herrn Grün) sprechen."
+    ],
+    "enVariants": [
+      "Please tell her/him that (the documents haven't arrived yet.) She/He should call me back.",
+      "Please tell her",
+      "him that (the documents haven't arrived yet.) She",
+      "He should call me back."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "(Frau Stein/Herr Grün) ist nicht im Büro. Kann ich ihr/ihm etwas ausrichten?",
+    "en": "At which number can (Mrs. Stein) reach you?",
+    "deVariants": [
+      "(Frau Stein/Herr Grün) ist nicht im Büro. Kann ich ihr/ihm etwas ausrichten?"
+    ],
+    "enVariants": [
+      "At which number can (Mrs. Stein) reach you?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Bitte richten Sie ihr/ihm aus, dass (die Dokumente noch nicht angekommen sind.) Sie/Er soll mich bitte zurückrufen.",
+    "en": "She can reach me at (12 34 56).",
+    "deVariants": [
+      "Bitte richten Sie ihr/ihm aus, dass (die Dokumente noch nicht angekommen sind.) Sie/Er soll mich bitte zurückrufen.",
+      "Bitte richten Sie ihr",
+      "ihm aus, dass (die Dokumente noch nicht angekommen sind.) Sie",
+      "Er soll mich bitte zurückrufen."
+    ],
+    "enVariants": [
+      "She can reach me at (12 34 56)."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Sie erreicht mich unter der Nummer (12 34 56).",
+    "en": "Can you put me through to (Mrs. Lorenz)?",
+    "deVariants": [
+      "Sie erreicht mich unter der Nummer (12 34 56)."
+    ],
+    "enVariants": [
+      "Can you put me through to (Mrs. Lorenz)?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Können Sie mich mit (Frau Lorenz) verbinden?",
+    "en": "One moment please, I'll put you through.",
+    "deVariants": [
+      "Können Sie mich mit (Frau Lorenz) verbinden?",
+      "Kannst du mich mit (Frau Lorenz) verbinden?"
+    ],
+    "enVariants": [
+      "One moment please, I'll put you through."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Einen Moment, ich verbinde Sie.",
+    "en": "What is it about?",
+    "deVariants": [
+      "Einen Moment, ich verbinde Sie."
+    ],
+    "enVariants": [
+      "What is it about?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Es geht um (eine Reparatur).",
+    "en": "It's about (repair work).",
+    "deVariants": [
+      "Es geht um (eine Reparatur)."
+    ],
+    "enVariants": [
+      "It's about (repair work)."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Wo liegt das Problem?",
+    "en": "What's the problem?",
+    "deVariants": [
+      "Wo liegt das Problem?"
+    ],
+    "enVariants": [
+      "What's the problem?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Unser (3D-Drucker) ist kaputt.",
+    "en": "Our (3D printer) is not working.",
+    "deVariants": [
+      "Unser (3D-Drucker) ist kaputt."
+    ],
+    "enVariants": [
+      "Our (3D printer) is not working."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Wie kann ich Ihnen helfen?",
+    "en": "How can I help you?",
+    "deVariants": [
+      "Wie kann ich Ihnen helfen?"
+    ],
+    "enVariants": [
+      "How can I help you?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Wir brauchen (einen Monteur).",
+    "en": "We need (a repairman).",
+    "deVariants": [
+      "Wir brauchen (einen Monteur)."
+    ],
+    "enVariants": [
+      "We need (a repairman)."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Ich informiere Sie so schnell wie möglich über die genaue Uhrzeit.",
+    "en": "I'll let you know the time as soon as possible.",
+    "deVariants": [
+      "Ich informiere Sie so schnell wie möglich über die genaue Uhrzeit."
+    ],
+    "enVariants": [
+      "I'll let you know the time as soon as possible."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Vielen Dank für Ihre Hilfe.",
+    "en": "Many thanks for your help.",
+    "deVariants": [
+      "Vielen Dank für Ihre Hilfe."
+    ],
+    "enVariants": [
+      "Many thanks for your help."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Auf Wiederhören.",
+    "en": "You're welcome.",
+    "deVariants": [
+      "Auf Wiederhören."
+    ],
+    "enVariants": [
+      "You're welcome."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "jemanden grüßen",
+    "en": "greet somebody",
+    "deVariants": [
+      "jemanden grüßen"
+    ],
+    "enVariants": [
+      "greet somebody"
+    ],
+    "topic": "Tipps fürs Büro"
+  },
+  {
+    "de": "jemandem die Hand geben",
+    "en": "shake hands with somebody",
+    "deVariants": [
+      "jemandem die Hand geben"
+    ],
+    "enVariants": [
+      "shake hands with somebody"
+    ],
+    "topic": "Tipps fürs Büro"
+  },
+  {
+    "de": "zu Terminen pünktlich kommen",
+    "en": "say du/Sie be on an informal/formal basis",
+    "deVariants": [
+      "zu Terminen pünktlich kommen"
+    ],
+    "enVariants": [
+      "say du/Sie be on an informal/formal basis",
+      "say du",
+      "Sie be on an informal",
+      "formal basis"
+    ],
+    "topic": "Tipps fürs Büro"
+  },
+  {
+    "de": "beim Smalltalk nicht über private Probleme, Krankheit, Politik und Religion reden",
+    "en": "observe hierarchy",
+    "deVariants": [
+      "beim Smalltalk nicht über private Probleme, Krankheit, Politik und Religion reden"
+    ],
+    "enVariants": [
+      "observe hierarchy"
+    ],
+    "topic": "Tipps fürs Büro"
+  },
+  {
+    "de": "schnell mit dem geschäftlichen Teil des Gesprächs beginnen",
+    "en": "be on time for appointments",
+    "deVariants": [
+      "schnell mit dem geschäftlichen Teil des Gesprächs beginnen"
+    ],
+    "enVariants": [
+      "be on time for appointments"
+    ],
+    "topic": "Tipps fürs Büro"
+  },
+  {
+    "de": "erst zuhören, dann reden",
+    "en": "not to talk about private problems, illness, politics and religion during small-talk",
+    "deVariants": [
+      "erst zuhören, dann reden"
+    ],
+    "enVariants": [
+      "not to talk about private problems, illness, politics and religion during small-talk"
+    ],
+    "topic": "Tipps fürs Büro"
+  },
+  {
+    "de": "frühstücken",
+    "en": "get up at 7.30",
+    "deVariants": [
+      "frühstücken"
+    ],
+    "enVariants": [
+      "get up at 7.30"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "zur Uni/zur Arbeit/ins Büro fahren",
+    "en": "wash oneself",
+    "deVariants": [
+      "zur Uni/zur Arbeit/ins Büro fahren",
+      "zur Uni",
+      "zur Arbeit",
+      "ins Büro fahren"
+    ],
+    "enVariants": [
+      "wash oneself"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (mit Freunden/Kollegen/dem Chef) unterhalten",
+    "en": "take a shower",
+    "deVariants": [
+      "sich (mit Freunden/Kollegen/dem Chef) unterhalten",
+      "sich (mit Freunden",
+      "Kollegen",
+      "dem Chef) unterhalten"
+    ],
+    "enVariants": [
+      "take a shower"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (mit Freunden/Kollegen/dem Chef) treffen",
+    "en": "get dressed",
+    "deVariants": [
+      "sich (mit Freunden/Kollegen/dem Chef) treffen",
+      "sich (mit Freunden",
+      "Kollegen",
+      "dem Chef) treffen"
+    ],
+    "enVariants": [
+      "get dressed"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (auf eine Präsentation/eine Besprechung/eine Prüfung) vorbereiten",
+    "en": "have breakfast",
+    "deVariants": [
+      "sich (auf eine Präsentation/eine Besprechung/eine Prüfung) vorbereiten",
+      "sich (auf eine Präsentation",
+      "eine Besprechung",
+      "eine Prüfung) vorbereiten"
+    ],
+    "enVariants": [
+      "have breakfast"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (mit einem Thema) beschäftigen",
+    "en": "go to the university/to work/to the office",
+    "deVariants": [
+      "sich (mit einem Thema) beschäftigen"
+    ],
+    "enVariants": [
+      "go to the university/to work/to the office",
+      "go to the university",
+      "to work",
+      "to the office"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "einen Vortrag halten",
+    "en": "chat (with friends/colleagues/the manager)",
+    "deVariants": [
+      "einen Vortrag halten"
+    ],
+    "enVariants": [
+      "chat (with friends/colleagues/the manager)",
+      "chat (with friends",
+      "colleagues",
+      "the manager)"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (über die Technik) ärgern",
+    "en": "meet (with friends/colleagues/the manager)",
+    "deVariants": [
+      "sich (über die Technik) ärgern"
+    ],
+    "enVariants": [
+      "meet (with friends/colleagues/the manager)",
+      "meet (with friends",
+      "colleagues",
+      "the manager)"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (mit dem Freund) streiten",
+    "en": "prepare (for a presentation/a meeting/an exam)",
+    "deVariants": [
+      "sich (mit dem Freund) streiten"
+    ],
+    "enVariants": [
+      "prepare (for a presentation/a meeting/an exam)",
+      "prepare (for a presentation",
+      "a meeting",
+      "an exam)"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (für einen Kurs) einschreiben",
+    "en": "work (on a topic), study (a topic)",
+    "deVariants": [
+      "sich (für einen Kurs) einschreiben"
+    ],
+    "enVariants": [
+      "work (on a topic), study (a topic)"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (zum Kurs) anmelden",
+    "en": "give a presentation",
+    "deVariants": [
+      "sich (zum Kurs) anmelden"
+    ],
+    "enVariants": [
+      "give a presentation"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (für die französische Sprache) interessieren",
+    "en": "be/get annoyed (about technology)",
+    "deVariants": [
+      "sich (für die französische Sprache) interessieren"
+    ],
+    "enVariants": [
+      "be/get annoyed (about technology)",
+      "be",
+      "get annoyed (about technology)"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (auf den Unterricht) freuen",
+    "en": "fight (with a friend)",
+    "deVariants": [
+      "sich (auf den Unterricht) freuen"
+    ],
+    "enVariants": [
+      "fight (with a friend)"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "sich (nach der Arbeit) entspannen",
+    "en": "fall in love (with Anna)",
+    "deVariants": [
+      "sich (nach der Arbeit) entspannen"
+    ],
+    "enVariants": [
+      "fall in love (with Anna)"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "Es passiert immer das Gleiche.",
+    "en": "enrol (in a course)",
+    "deVariants": [
+      "Es passiert immer das Gleiche."
+    ],
+    "enVariants": [
+      "enrol (in a course)"
+    ],
+    "topic": "Tagesablauf"
+  },
+  {
+    "de": "ein Alleskönner/Ansprechpartner sein",
+    "en": "be an all-rounder/a contact person",
+    "deVariants": [
+      "ein Alleskönner/Ansprechpartner sein",
+      "ein Alleskönner",
+      "Ansprechpartner sein"
+    ],
+    "enVariants": [
+      "be an all-rounder/a contact person",
+      "be an all-rounder",
+      "a contact person"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "Telefongespräche führen",
+    "en": "coordinate appointments",
+    "deVariants": [
+      "Telefongespräche führen"
+    ],
+    "enVariants": [
+      "coordinate appointments"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "die Abrechnung machen",
+    "en": "conduct telephone conversations",
+    "deVariants": [
+      "die Abrechnung machen"
+    ],
+    "enVariants": [
+      "conduct telephone conversations"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "Waren prüfen/sortieren/präsentieren",
+    "en": "make the billing",
+    "deVariants": [
+      "Waren prüfen/sortieren/präsentieren",
+      "Waren prüfen",
+      "sortieren",
+      "präsentieren"
+    ],
+    "enVariants": [
+      "make the billing"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "eine Liste erstellen",
+    "en": "check/sort/present products",
+    "deVariants": [
+      "eine Liste erstellen"
+    ],
+    "enVariants": [
+      "check/sort/present products",
+      "check",
+      "sort",
+      "present products"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "sich regelmäßig weiterbilden",
+    "en": "place orders",
+    "deVariants": [
+      "sich regelmäßig weiterbilden"
+    ],
+    "enVariants": [
+      "place orders"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "gute Sprachkenntnisse/Karrierechancen haben",
+    "en": "compose a list",
+    "deVariants": [
+      "gute Sprachkenntnisse/Karrierechancen haben",
+      "gute Sprachkenntnisse",
+      "Karrierechancen haben"
+    ],
+    "enVariants": [
+      "compose a list"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "sich mit Gesetzen und Normen beschäftigen",
+    "en": "repair cars",
+    "deVariants": [
+      "sich mit Gesetzen und Normen beschäftigen"
+    ],
+    "enVariants": [
+      "repair cars"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "Aufgaben im Management übernehmen",
+    "en": "attend workshops on a regular basis",
+    "deVariants": [
+      "Aufgaben im Management übernehmen"
+    ],
+    "enVariants": [
+      "attend workshops on a regular basis"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "Maschinen und Anlagen überwachen",
+    "en": "have good language skills/career opportunities",
+    "deVariants": [
+      "Maschinen und Anlagen überwachen"
+    ],
+    "enVariants": [
+      "have good language skills/career opportunities",
+      "have good language skills",
+      "career opportunities"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "ältere Menschen unterstützen/betreuen",
+    "en": "be concerned/work with law and norms",
+    "deVariants": [
+      "ältere Menschen unterstützen/betreuen",
+      "ältere Menschen unterstützen",
+      "betreuen"
+    ],
+    "enVariants": [
+      "be concerned/work with law and norms",
+      "be concerned",
+      "work with law and norms"
+    ],
+    "topic": "Tätigkeiten in verschiedenen Berufen"
+  },
+  {
+    "de": "einen Lieblingslehrer/eine Lieblingslehrerin/ein Lieblingsfach haben",
+    "en": "remember one's school time",
+    "deVariants": [
+      "einen Lieblingslehrer/eine Lieblingslehrerin/ein Lieblingsfach haben",
+      "einen Lieblingslehrer",
+      "eine Lieblingslehrerin",
+      "ein Lieblingsfach haben"
+    ],
+    "enVariants": [
+      "remember one's school time"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "einen Test schreiben",
+    "en": "like going to school",
+    "deVariants": [
+      "einen Test schreiben"
+    ],
+    "enVariants": [
+      "like going to school"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "eine (gute/schlechte) Note bekommen",
+    "en": "have a favourite teacher/favourite (female) teacher/ favourite subject",
+    "deVariants": [
+      "eine (gute/schlechte) Note bekommen",
+      "eine (gute",
+      "schlechte) Note bekommen"
+    ],
+    "enVariants": [
+      "have a favourite teacher/favourite (female) teacher/ favourite subject",
+      "have a favourite teacher",
+      "favourite (female) teacher",
+      "favourite subject"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "sich (auf den Sport/die Schule/das Lernen) konzentrieren",
+    "en": "do homework",
+    "deVariants": [
+      "sich (auf den Sport/die Schule/das Lernen) konzentrieren",
+      "sich (auf den Sport",
+      "die Schule",
+      "das Lernen) konzentrieren"
+    ],
+    "enVariants": [
+      "do homework"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "die Kinderkrippe/den Kindergarten/ die Grundschule/die Hauptschule/ die Realschule/das Gymnasium besuchen",
+    "en": "write a test",
+    "deVariants": [
+      "die Kinderkrippe/den Kindergarten/ die Grundschule/die Hauptschule/ die Realschule/das Gymnasium besuchen",
+      "die Kinderkrippe",
+      "den Kindergarten",
+      "die Grundschule",
+      "die Hauptschule",
+      "die Realschule",
+      "das Gymnasium besuchen"
+    ],
+    "enVariants": [
+      "write a test"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "für eine Prüfung lernen",
+    "en": "get (good/bad) marks",
+    "deVariants": [
+      "für eine Prüfung lernen"
+    ],
+    "enVariants": [
+      "get (good/bad) marks",
+      "get (good",
+      "bad) marks"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "die Prüfung bestehen",
+    "en": "concentrate (on sports/school/studying)",
+    "deVariants": [
+      "die Prüfung bestehen"
+    ],
+    "enVariants": [
+      "concentrate (on sports/school/studying)",
+      "concentrate (on sports",
+      "school",
+      "studying)"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "die Schule (mit dem Abitur) abschließen",
+    "en": "go to the crèche/kindergarten/ primary school/secondary school (where you also learn a profession)/highschool",
+    "deVariants": [
+      "die Schule (mit dem Abitur) abschließen"
+    ],
+    "enVariants": [
+      "go to the crèche/kindergarten/ primary school/secondary school (where you also learn a profession)/highschool",
+      "go to the crèche",
+      "kindergarten",
+      "primary school",
+      "secondary school (where you also learn a profession)",
+      "highschool"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "das Abitur/einen Abschluss machen",
+    "en": "study for an exam",
+    "deVariants": [
+      "das Abitur/einen Abschluss machen",
+      "das Abitur",
+      "einen Abschluss machen"
+    ],
+    "enVariants": [
+      "study for an exam"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "Schul-/Studiengebühren verlangen",
+    "en": "pass the exam",
+    "deVariants": [
+      "Schul-/Studiengebühren verlangen",
+      "Schul-",
+      "Studiengebühren verlangen"
+    ],
+    "enVariants": [
+      "pass the exam"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "die allgemeine Hochschulreife besitzen",
+    "en": "finish school (with an A level)",
+    "deVariants": [
+      "die allgemeine Hochschulreife besitzen"
+    ],
+    "enVariants": [
+      "finish school (with an A level)"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "ein Studium aufnehmen",
+    "en": "pass the A level/get a degree",
+    "deVariants": [
+      "ein Studium aufnehmen"
+    ],
+    "enVariants": [
+      "pass the A level/get a degree",
+      "pass the A level",
+      "get a degree"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "an einer Universität/Hochschule studieren",
+    "en": "charge tuition fees",
+    "deVariants": [
+      "an einer Universität/Hochschule studieren",
+      "an einer Universität",
+      "Hochschule studieren"
+    ],
+    "enVariants": [
+      "charge tuition fees"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "Studiengänge anbieten",
+    "en": "have the A level",
+    "deVariants": [
+      "Studiengänge anbieten"
+    ],
+    "enVariants": [
+      "have the A level"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "sich an einer Universität/für ein Studienfach einschreiben",
+    "en": "take up studies",
+    "deVariants": [
+      "sich an einer Universität/für ein Studienfach einschreiben",
+      "sich an einer Universität",
+      "für ein Studienfach einschreiben"
+    ],
+    "enVariants": [
+      "take up studies"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "Vorlesungen und Seminare haben",
+    "en": "study at a university/technical university",
+    "deVariants": [
+      "Vorlesungen und Seminare haben"
+    ],
+    "enVariants": [
+      "study at a university/technical university",
+      "study at a university",
+      "technical university"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "Das Studienjahr ist in Semester unterteilt.",
+    "en": "offer study programmes",
+    "deVariants": [
+      "Das Studienjahr ist in Semester unterteilt."
+    ],
+    "enVariants": [
+      "offer study programmes"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "ein Praktikum machen/absolvieren",
+    "en": "enrol at a university/in a field of study",
+    "deVariants": [
+      "ein Praktikum machen/absolvieren",
+      "ein Praktikum machen",
+      "absolvieren"
+    ],
+    "enVariants": [
+      "enrol at a university/in a field of study",
+      "enrol at a university",
+      "in a field of study"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "sich um einen Praktikumsplatz/eine Stelle bewerben",
+    "en": "have lectures and seminars",
+    "deVariants": [
+      "sich um einen Praktikumsplatz/eine Stelle bewerben",
+      "sich um einen Praktikumsplatz",
+      "eine Stelle bewerben"
+    ],
+    "enVariants": [
+      "have lectures and seminars"
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "eine Bewerbung/einen Lebenslauf schreiben",
+    "en": "The study year is divided into semesters.",
+    "deVariants": [
+      "eine Bewerbung/einen Lebenslauf schreiben",
+      "eine Bewerbung",
+      "einen Lebenslauf schreiben"
+    ],
+    "enVariants": [
+      "The study year is divided into semesters."
+    ],
+    "topic": "Schule und Studium"
+  },
+  {
+    "de": "sich gut/glücklich/am glücklichsten fühlen",
+    "en": "feel happy/happier/the happiest",
+    "deVariants": [
+      "sich gut/glücklich/am glücklichsten fühlen",
+      "sich gut",
+      "glücklich",
+      "am glücklichsten fühlen"
+    ],
+    "enVariants": [
+      "feel happy/happier/the happiest",
+      "feel happy",
+      "happier",
+      "the happiest"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "zufrieden/glücklich sein",
+    "en": "be pleased/happy",
+    "deVariants": [
+      "zufrieden/glücklich sein",
+      "zufrieden",
+      "glücklich sein"
+    ],
+    "enVariants": [
+      "be pleased/happy",
+      "be pleased",
+      "happy"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "nach Meinung der Wissenschaftler",
+    "en": "Studies have shown that …",
+    "deVariants": [
+      "nach Meinung der Wissenschaftler"
+    ],
+    "enVariants": [
+      "Studies have shown that …"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "großen Einfluss auf das Glück haben",
+    "en": "according to scientists",
+    "deVariants": [
+      "großen Einfluss auf das Glück haben"
+    ],
+    "enVariants": [
+      "according to scientists"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "zu den Glücksfaktoren zählen",
+    "en": "have a major influence on happiness",
+    "deVariants": [
+      "zu den Glücksfaktoren zählen"
+    ],
+    "enVariants": [
+      "have a major influence on happiness"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "eine Rolle spielen",
+    "en": "count amongst the criteria for happiness",
+    "deVariants": [
+      "eine Rolle spielen"
+    ],
+    "enVariants": [
+      "count amongst the criteria for happiness"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "einen festen Partner, eine liebevolle Familie haben",
+    "en": "play a role",
+    "deVariants": [
+      "einen festen Partner, eine liebevolle Familie haben"
+    ],
+    "enVariants": [
+      "play a role"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "eine sinnvolle Tätigkeit ausüben",
+    "en": "earn money",
+    "deVariants": [
+      "eine sinnvolle Tätigkeit ausüben"
+    ],
+    "enVariants": [
+      "earn money"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "ehrenamtliche Aufgaben übernehmen",
+    "en": "have a stable partner, a loving family",
+    "deVariants": [
+      "ehrenamtliche Aufgaben übernehmen"
+    ],
+    "enVariants": [
+      "have a stable partner, a loving family"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "eine Voraussetzung für Zufriedenheit sein",
+    "en": "carry out a meaningful activity",
+    "deVariants": [
+      "eine Voraussetzung für Zufriedenheit sein"
+    ],
+    "enVariants": [
+      "carry out a meaningful activity"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "Geld macht nicht glücklich.",
+    "en": "take on honorary tasks",
+    "deVariants": [
+      "Geld macht nicht glücklich."
+    ],
+    "enVariants": [
+      "take on honorary tasks"
+    ],
+    "topic": "Glück und Zufriedenheit"
+  },
+  {
+    "de": "ein wahres Paradies (für Gourmets) sein",
+    "en": "be a real paradise (for gourmets)",
+    "deVariants": [
+      "ein wahres Paradies (für Gourmets) sein"
+    ],
+    "enVariants": [
+      "be a real paradise (for gourmets)"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "(im Herzen von Berlin) liegen",
+    "en": "be located (in the heart of Berlin)",
+    "deVariants": [
+      "(im Herzen von Berlin) liegen"
+    ],
+    "enVariants": [
+      "be located (in the heart of Berlin)"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "sich (im Zentrum von Berlin) befinden",
+    "en": "be located (in the centre of Berlin)",
+    "deVariants": [
+      "sich (im Zentrum von Berlin) befinden"
+    ],
+    "enVariants": [
+      "be located (in the centre of Berlin)"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "ein Kaufhaus/ein Unternehmen gründen",
+    "en": "found a department store/a company",
+    "deVariants": [
+      "ein Kaufhaus/ein Unternehmen gründen",
+      "ein Kaufhaus",
+      "ein Unternehmen gründen"
+    ],
+    "enVariants": [
+      "found a department store/a company",
+      "found a department store",
+      "a company"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "auf eine lange Geschichte zurückblicken",
+    "en": "have a rich history",
+    "deVariants": [
+      "auf eine lange Geschichte zurückblicken"
+    ],
+    "enVariants": [
+      "have a rich history"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "verschiedene Eigentümer haben",
+    "en": "have various owners",
+    "deVariants": [
+      "verschiedene Eigentümer haben"
+    ],
+    "enVariants": [
+      "have various owners"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Die Baukosten betragen (4,5 Millionen).",
+    "en": "Building costs amount to (4,5 million).",
+    "deVariants": [
+      "Die Baukosten betragen (4,5 Millionen)."
+    ],
+    "enVariants": [
+      "Building costs amount to (4,5 million)."
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "zur (Karstadt-Gruppe) gehören",
+    "en": "belong to the (Karstadt Group)",
+    "deVariants": [
+      "zur (Karstadt-Gruppe) gehören"
+    ],
+    "enVariants": [
+      "belong to the (Karstadt Group)"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "viele Umbauten/Zerstörungen erleben",
+    "en": "have been rebuilt and destroyed several times",
+    "deVariants": [
+      "viele Umbauten/Zerstörungen erleben",
+      "viele Umbauten",
+      "Zerstörungen erleben"
+    ],
+    "enVariants": [
+      "have been rebuilt and destroyed several times"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "zu den größten Kaufhäusern Europas zählen",
+    "en": "count amongst the biggest department stores in Europe",
+    "deVariants": [
+      "zu den größten Kaufhäusern Europas zählen"
+    ],
+    "enVariants": [
+      "count amongst the biggest department stores in Europe"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Waren auf fünf Etagen (an)bieten",
+    "en": "display products on five floors",
+    "deVariants": [
+      "Waren auf fünf Etagen (an)bieten"
+    ],
+    "enVariants": [
+      "display products on five floors"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "das Angebot erweitern",
+    "en": "expand the choice",
+    "deVariants": [
+      "das Angebot erweitern"
+    ],
+    "enVariants": [
+      "expand the choice"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "eine ausgezeichnete (Musik-)Abteilung haben",
+    "en": "have an excellent (music) department",
+    "deVariants": [
+      "eine ausgezeichnete (Musik-)Abteilung haben"
+    ],
+    "enVariants": [
+      "have an excellent (music) department"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "aus einem großen Angebot auswählen können",
+    "en": "be able to choose from a large selection",
+    "deVariants": [
+      "aus einem großen Angebot auswählen können"
+    ],
+    "enVariants": [
+      "be able to choose from a large selection"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Abteilungen und Produkte (Auswahl):",
+    "en": "Departments and products (selection):",
+    "deVariants": [
+      "Abteilungen und Produkte (Auswahl):"
+    ],
+    "enVariants": [
+      "Departments and products (selection):"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Bekleidung: die Hose, der Pullover",
+    "en": "Clothing: pants, sweater",
+    "deVariants": [
+      "Bekleidung: die Hose, der Pullover"
+    ],
+    "enVariants": [
+      "Clothing: pants, sweater"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Delikatessen: der Schinken, der Kaviar",
+    "en": "Delicacies: ham, caviar",
+    "deVariants": [
+      "Delikatessen: der Schinken, der Kaviar"
+    ],
+    "enVariants": [
+      "Delicacies: ham, caviar"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Elektrogeräte: die Waschmaschine",
+    "en": "Electric devices: washing machine",
+    "deVariants": [
+      "Elektrogeräte: die Waschmaschine"
+    ],
+    "enVariants": [
+      "Electric devices: washing machine"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Haushaltswaren: der Kochtopf, das Geschirr",
+    "en": "Household devices: cooking pot, crockery",
+    "deVariants": [
+      "Haushaltswaren: der Kochtopf, das Geschirr"
+    ],
+    "enVariants": [
+      "Household devices: cooking pot, crockery"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Kosmetik: der Lippenstift, die Creme",
+    "en": "Cosmetics: lipstick, cream",
+    "deVariants": [
+      "Kosmetik: der Lippenstift, die Creme"
+    ],
+    "enVariants": [
+      "Cosmetics: lipstick, cream"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Lederwaren: die Tasche",
+    "en": "Leather products: bag",
+    "deVariants": [
+      "Lederwaren: die Tasche"
+    ],
+    "enVariants": [
+      "Leather products: bag"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Möbel: der Schreibtisch",
+    "en": "Furniture: desk",
+    "deVariants": [
+      "Möbel: der Schreibtisch"
+    ],
+    "enVariants": [
+      "Furniture: desk"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Schmuck: die Ohrringe",
+    "en": "Jewellery: earrings",
+    "deVariants": [
+      "Schmuck: die Ohrringe"
+    ],
+    "enVariants": [
+      "Jewellery: earrings"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Spielwaren: der Teddy",
+    "en": "Toys: teddy bear",
+    "deVariants": [
+      "Spielwaren: der Teddy"
+    ],
+    "enVariants": [
+      "Toys: teddy bear"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "Sport und Freizeit: die Sportschuhe",
+    "en": "Sports and free time: sports shoes",
+    "deVariants": [
+      "Sport und Freizeit: die Sportschuhe"
+    ],
+    "enVariants": [
+      "Sports and free time: sports shoes"
+    ],
+    "topic": "Berühmte Kaufhäuser"
+  },
+  {
+    "de": "jemandem einen Heiratsantrag machen",
+    "en": "live together",
+    "deVariants": [
+      "jemandem einen Heiratsantrag machen"
+    ],
+    "enVariants": [
+      "live together"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "ein alter Brauch sein",
+    "en": "marry somebody",
+    "deVariants": [
+      "ein alter Brauch sein"
+    ],
+    "enVariants": [
+      "marry somebody"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "das Standesamt, die Trauung, die Trauzeugen, die Braut, der Bräutigam",
+    "en": "propose to somebody",
+    "deVariants": [
+      "das Standesamt, die Trauung, die Trauzeugen, die Braut, der Bräutigam"
+    ],
+    "enVariants": [
+      "propose to somebody"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "aus Liebe/aus finanziellen Gründen heiraten",
+    "en": "be an old tradition",
+    "deVariants": [
+      "aus Liebe/aus finanziellen Gründen heiraten",
+      "aus Liebe",
+      "aus finanziellen Gründen heiraten"
+    ],
+    "enVariants": [
+      "be an old tradition"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "bei der Hochzeitsfeier die Hochzeitstorte anschneiden",
+    "en": "celebrate together",
+    "deVariants": [
+      "bei der Hochzeitsfeier die Hochzeitstorte anschneiden"
+    ],
+    "enVariants": [
+      "celebrate together"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "Das Heiratsalter steigt.",
+    "en": "registry office, wedding ceremony, witnesses to a marriage, bride, groom",
+    "deVariants": [
+      "Das Heiratsalter steigt."
+    ],
+    "enVariants": [
+      "registry office, wedding ceremony, witnesses to a marriage, bride, groom"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "jemanden zur Hochzeit einladen",
+    "en": "get married for love/financial reasons",
+    "deVariants": [
+      "jemanden zur Hochzeit einladen"
+    ],
+    "enVariants": [
+      "get married for love/financial reasons",
+      "get married for love",
+      "financial reasons"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "(dem Brautpaar) etwas schenken",
+    "en": "cut the wedding cake at the wedding party",
+    "deVariants": [
+      "(dem Brautpaar) etwas schenken"
+    ],
+    "enVariants": [
+      "cut the wedding cake at the wedding party"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "(dem Brautpaar) zur Hochzeit gratulieren",
+    "en": "The age where people get married is increasing.",
+    "deVariants": [
+      "(dem Brautpaar) zur Hochzeit gratulieren"
+    ],
+    "enVariants": [
+      "The age where people get married is increasing."
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "Viele Ehen halten nicht.",
+    "en": "invite someone to the wedding",
+    "deVariants": [
+      "Viele Ehen halten nicht."
+    ],
+    "enVariants": [
+      "invite someone to the wedding"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "Die Scheidungsquote liegt bei 45 %.",
+    "en": "give a present (to the bridal couple)",
+    "deVariants": [
+      "Die Scheidungsquote liegt bei 45 %."
+    ],
+    "enVariants": [
+      "give a present (to the bridal couple)"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "Die Quote sinkt.",
+    "en": "congratulate (the bridal couple)",
+    "deVariants": [
+      "Die Quote sinkt."
+    ],
+    "enVariants": [
+      "congratulate (the bridal couple)"
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "sich von jemandem scheiden lassen",
+    "en": "Many marriages don't last.",
+    "deVariants": [
+      "sich von jemandem scheiden lassen"
+    ],
+    "enVariants": [
+      "Many marriages don't last."
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "Verwandte: Schwägerin/Schwager, Schwiegermutter/Schwiegervater, Nichte/Neffe, Cousine/Cousin, Enkelin/Enkel",
+    "en": "The divorce rate is about 45 %.",
+    "deVariants": [
+      "Verwandte: Schwägerin/Schwager, Schwiegermutter/Schwiegervater, Nichte/Neffe, Cousine/Cousin, Enkelin/Enkel",
+      "Verwandte: Schwägerin",
+      "Schwager, Schwiegermutter",
+      "Schwiegervater, Nichte",
+      "Neffe, Cousine",
+      "Cousin, Enkelin",
+      "Enkel"
+    ],
+    "enVariants": [
+      "The divorce rate is about 45 %."
+    ],
+    "topic": "Hochzeit und Familie"
+  },
+  {
+    "de": "Ich hätte gern/Ich suche (ein Paar Sportschuhe).",
+    "en": "I would like to have/I'm looking for (sports shoes).",
+    "deVariants": [
+      "Ich hätte gern/Ich suche (ein Paar Sportschuhe).",
+      "Ich hätte gern",
+      "Ich suche (ein Paar Sportschuhe)."
+    ],
+    "enVariants": [
+      "I would like to have/I'm looking for (sports shoes).",
+      "I would like to have",
+      "I'm looking for (sports shoes)."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Welche Größe haben Sie?",
+    "en": "What is your size?",
+    "deVariants": [
+      "Welche Größe haben Sie?"
+    ],
+    "enVariants": [
+      "What is your size?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Ich habe Größe (43).",
+    "en": "I have size (43).",
+    "deVariants": [
+      "Ich habe Größe (43)."
+    ],
+    "enVariants": [
+      "I have size (43)."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "In welcher Farbe?/Welche Farbe möchten Sie?",
+    "en": "Which colour?/Which colour would you like?",
+    "deVariants": [
+      "In welcher Farbe?/Welche Farbe möchten Sie?"
+    ],
+    "enVariants": [
+      "Which colour?/Which colour would you like?",
+      "Which colour?",
+      "Which colour would you like?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "(Weiß) finde ich gut.",
+    "en": "(White) would be nice.",
+    "deVariants": [
+      "(Weiß) finde ich gut."
+    ],
+    "enVariants": [
+      "(White) would be nice."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Kann ich (die Schuhe) einmal anprobieren?",
+    "en": "Can I try (the shoes) on?",
+    "deVariants": [
+      "Kann ich (die Schuhe) einmal anprobieren?"
+    ],
+    "enVariants": [
+      "Can I try (the shoes) on?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "(Die Schuhe) passen mir nicht richtig.",
+    "en": "Sure.",
+    "deVariants": [
+      "(Die Schuhe) passen mir nicht richtig."
+    ],
+    "enVariants": [
+      "Sure."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Sie sind zu groß/zu klein.",
+    "en": "(These shoes) don't really fit.",
+    "deVariants": [
+      "Sie sind zu groß/zu klein.",
+      "Sie sind zu groß",
+      "zu klein."
+    ],
+    "enVariants": [
+      "(These shoes) don't really fit."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Haben Sie (die Schuhe) noch in einer anderen Größe?",
+    "en": "They are too big/small.",
+    "deVariants": [
+      "Haben Sie (die Schuhe) noch in einer anderen Größe?",
+      "Hast du (die Schuhe) noch in einer anderen Größe?"
+    ],
+    "enVariants": [
+      "They are too big/small.",
+      "They are too big",
+      "small."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Hier sind (die Schuhe) eine Nummer größer/kleiner.",
+    "en": "Do you have (these shoes) in another size?",
+    "deVariants": [
+      "Hier sind (die Schuhe) eine Nummer größer/kleiner.",
+      "Hier sind (die Schuhe) eine Nummer größer",
+      "kleiner."
+    ],
+    "enVariants": [
+      "Do you have (these shoes) in another size?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Wie viel kosten (die Schuhe)?",
+    "en": "(These shoes) here are one size bigger/smaller.",
+    "deVariants": [
+      "Wie viel kosten (die Schuhe)?"
+    ],
+    "enVariants": [
+      "(These shoes) here are one size bigger/smaller.",
+      "(These shoes) here are one size bigger",
+      "smaller."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Geben Sie auch einen Rabatt?",
+    "en": "What do (the shoes) cost?",
+    "deVariants": [
+      "Geben Sie auch einen Rabatt?"
+    ],
+    "enVariants": [
+      "What do (the shoes) cost?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Tut mir leid. Auf diesen Artikel gibt es keinen Rabatt.",
+    "en": "Can I get a discount?",
+    "deVariants": [
+      "Tut mir leid. Auf diesen Artikel gibt es keinen Rabatt."
+    ],
+    "enVariants": [
+      "Can I get a discount?"
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "Ich überlege mir das noch einmal.",
+    "en": "I'm sorry. There is no discount for this item.",
+    "deVariants": [
+      "Ich überlege mir das noch einmal."
+    ],
+    "enVariants": [
+      "I'm sorry. There is no discount for this item."
+    ],
+    "topic": "Einkaufen"
+  },
+  {
+    "de": "eine Fremdsprache/die Sprachen der Nachbarländer (fließend) sprechen",
+    "en": "speak a foreign language/the languages of the neighbouring countries (fluently)",
+    "deVariants": [
+      "eine Fremdsprache/die Sprachen der Nachbarländer (fließend) sprechen",
+      "eine Fremdsprache",
+      "die Sprachen der Nachbarländer (fließend) sprechen"
+    ],
+    "enVariants": [
+      "speak a foreign language/the languages of the neighbouring countries (fluently)",
+      "speak a foreign language",
+      "the languages of the neighbouring countries (fluently)"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "eine Sprache aus Spaß/aus Interesse/aus beruflichen Gründen lernen",
+    "en": "find something important when learning a language",
+    "deVariants": [
+      "eine Sprache aus Spaß/aus Interesse/aus beruflichen Gründen lernen",
+      "eine Sprache aus Spaß",
+      "aus Interesse",
+      "aus beruflichen Gründen lernen"
+    ],
+    "enVariants": [
+      "find something important when learning a language"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "einen Vortrag (auf Deutsch) halten",
+    "en": "learn a language for fun/out of interest/for professional reasons",
+    "deVariants": [
+      "einen Vortrag (auf Deutsch) halten"
+    ],
+    "enVariants": [
+      "learn a language for fun/out of interest/for professional reasons",
+      "learn a language for fun",
+      "out of interest",
+      "for professional reasons"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "ein vertrauliches Dokument (ins Englische) übersetzen",
+    "en": "give a lecture (in German)",
+    "deVariants": [
+      "ein vertrauliches Dokument (ins Englische) übersetzen"
+    ],
+    "enVariants": [
+      "give a lecture (in German)"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "als Übersetzer arbeiten",
+    "en": "translate a confidential document (into English)",
+    "deVariants": [
+      "als Übersetzer arbeiten"
+    ],
+    "enVariants": [
+      "translate a confidential document (into English)"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "einen Auftrag übernehmen",
+    "en": "work as a translator",
+    "deVariants": [
+      "einen Auftrag übernehmen"
+    ],
+    "enVariants": [
+      "work as a translator"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "drei Amtssprachen sprechen müssen",
+    "en": "accept an assignment",
+    "deVariants": [
+      "drei Amtssprachen sprechen müssen"
+    ],
+    "enVariants": [
+      "accept an assignment"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "sich (auf Deutsch) unterhalten",
+    "en": "must speak three official languages",
+    "deVariants": [
+      "sich (auf Deutsch) unterhalten"
+    ],
+    "enVariants": [
+      "must speak three official languages"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "eine Sprache/alles wieder vergessen",
+    "en": "have a conversation (in German)",
+    "deVariants": [
+      "eine Sprache/alles wieder vergessen",
+      "eine Sprache",
+      "alles wieder vergessen"
+    ],
+    "enVariants": [
+      "have a conversation (in German)"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "ein Sprachgenie sein",
+    "en": "forget a language/everything again",
+    "deVariants": [
+      "ein Sprachgenie sein"
+    ],
+    "enVariants": [
+      "forget a language/everything again",
+      "forget a language",
+      "everything again"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "mit guten Sprachkenntnissen die Chancen auf dem Arbeitsmarkt verbessern",
+    "en": "be a linguistic genius, have a special gift for languages",
+    "deVariants": [
+      "mit guten Sprachkenntnissen die Chancen auf dem Arbeitsmarkt verbessern"
+    ],
+    "enVariants": [
+      "be a linguistic genius, have a special gift for languages"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "besser kommunizieren können",
+    "en": "improve one's chances in the job market thanks to good language skills",
+    "deVariants": [
+      "besser kommunizieren können"
+    ],
+    "enVariants": [
+      "improve one's chances in the job market thanks to good language skills"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "sich in der Freizeit mit Sprachen beschäftigen",
+    "en": "be able to better communicate",
+    "deVariants": [
+      "sich in der Freizeit mit Sprachen beschäftigen"
+    ],
+    "enVariants": [
+      "be able to better communicate"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "mit Freunden (auf Russisch) chatten",
+    "en": "learn languages in one's free time",
+    "deVariants": [
+      "mit Freunden (auf Russisch) chatten"
+    ],
+    "enVariants": [
+      "learn languages in one's free time"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "Nachrichten verstehen/in der Zielsprache hören",
+    "en": "watch films in the original language",
+    "deVariants": [
+      "Nachrichten verstehen/in der Zielsprache hören",
+      "Nachrichten verstehen",
+      "in der Zielsprache hören"
+    ],
+    "enVariants": [
+      "watch films in the original language"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "(keine) Angst vor Fehlern haben",
+    "en": "chat with friends (in Russian)",
+    "deVariants": [
+      "(keine) Angst vor Fehlern haben"
+    ],
+    "enVariants": [
+      "chat with friends (in Russian)"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "den persönlichen Lernstil finden",
+    "en": "understand the news/listen to the news in the target language",
+    "deVariants": [
+      "den persönlichen Lernstil finden"
+    ],
+    "enVariants": [
+      "understand the news/listen to the news in the target language",
+      "understand the news",
+      "listen to the news in the target language"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "sich (nicht) über lange Wörter ärgern",
+    "en": "be (un)afraid of making mistakes",
+    "deVariants": [
+      "sich (nicht) über lange Wörter ärgern"
+    ],
+    "enVariants": [
+      "be (un)afraid of making mistakes"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "das Internet nutzen",
+    "en": "find your personal learning style",
+    "deVariants": [
+      "das Internet nutzen"
+    ],
+    "enVariants": [
+      "find your personal learning style"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "nach Informationen (auf Deutsch) suchen",
+    "en": "(not) get annoyed by long words",
+    "deVariants": [
+      "nach Informationen (auf Deutsch) suchen"
+    ],
+    "enVariants": [
+      "(not) get annoyed by long words"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "Texte über interessante Themen lesen",
+    "en": "use the Internet",
+    "deVariants": [
+      "Texte über interessante Themen lesen"
+    ],
+    "enVariants": [
+      "use the Internet"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "sich Wörter besser merken",
+    "en": "look for information (in German)",
+    "deVariants": [
+      "sich Wörter besser merken"
+    ],
+    "enVariants": [
+      "look for information (in German)"
+    ],
+    "topic": "Sprachen"
+  },
+  {
+    "de": "im Wald Pilze suchen",
+    "en": "look for mushrooms in the woods",
+    "deVariants": [
+      "im Wald Pilze suchen"
+    ],
+    "enVariants": [
+      "look for mushrooms in the woods"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "auf der Wiese Blumen pflücken/Picknick machen",
+    "en": "pick flowers on the meadow/have a picnic",
+    "deVariants": [
+      "auf der Wiese Blumen pflücken/Picknick machen",
+      "auf der Wiese Blumen pflücken",
+      "Picknick machen"
+    ],
+    "enVariants": [
+      "pick flowers on the meadow/have a picnic",
+      "pick flowers on the meadow",
+      "have a picnic"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "im Park spazieren gehen",
+    "en": "go for a walk in the park",
+    "deVariants": [
+      "im Park spazieren gehen"
+    ],
+    "enVariants": [
+      "go for a walk in the park"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "im Gebirge klettern/auf einen Berg steigen",
+    "en": "climb in the mountains/climb on a mountain",
+    "deVariants": [
+      "im Gebirge klettern/auf einen Berg steigen",
+      "im Gebirge klettern",
+      "auf einen Berg steigen"
+    ],
+    "enVariants": [
+      "climb in the mountains/climb on a mountain",
+      "climb in the mountains",
+      "climb on a mountain"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "auf einem See rudern/Fische angeln",
+    "en": "paddle in a sea/go fishing",
+    "deVariants": [
+      "auf einem See rudern/Fische angeln",
+      "auf einem See rudern",
+      "Fische angeln"
+    ],
+    "enVariants": [
+      "paddle in a sea/go fishing",
+      "paddle in a sea",
+      "go fishing"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "im Meer schwimmen/tauchen",
+    "en": "swim/dive in the sea",
+    "deVariants": [
+      "im Meer schwimmen/tauchen",
+      "im Meer schwimmen",
+      "tauchen"
+    ],
+    "enVariants": [
+      "swim/dive in the sea",
+      "swim",
+      "dive in the sea"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "auf dem Meer segeln",
+    "en": "sail on the sea",
+    "deVariants": [
+      "auf dem Meer segeln"
+    ],
+    "enVariants": [
+      "sail on the sea"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "auf einem Fluss Kajak fahren",
+    "en": "kayak on a river",
+    "deVariants": [
+      "auf einem Fluss Kajak fahren"
+    ],
+    "enVariants": [
+      "kayak on a river"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "am Strand liegen/sich sonnen",
+    "en": "lie on the beach/in the sun",
+    "deVariants": [
+      "am Strand liegen/sich sonnen",
+      "am Strand liegen",
+      "sich sonnen"
+    ],
+    "enVariants": [
+      "lie on the beach/in the sun",
+      "lie on the beach",
+      "in the sun"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "auf Wanderwegen wandern",
+    "en": "hike on trails",
+    "deVariants": [
+      "auf Wanderwegen wandern"
+    ],
+    "enVariants": [
+      "hike on trails"
+    ],
+    "topic": "Landschaft und Natur"
+  },
+  {
+    "de": "den Urlaub planen",
+    "en": "make plans for the vacation",
+    "deVariants": [
+      "den Urlaub planen"
+    ],
+    "enVariants": [
+      "make plans for the vacation"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "sich auf eine Reise vorbereiten",
+    "en": "prepare for a trip",
+    "deVariants": [
+      "sich auf eine Reise vorbereiten"
+    ],
+    "enVariants": [
+      "prepare for a trip"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "eine App herunterladen",
+    "en": "download an app",
+    "deVariants": [
+      "eine App herunterladen"
+    ],
+    "enVariants": [
+      "download an app"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "eine Liste erstellen",
+    "en": "make a list",
+    "deVariants": [
+      "eine Liste erstellen"
+    ],
+    "enVariants": [
+      "make a list"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "einen Abenteuerurlaub/einen Ausflug machen",
+    "en": "ask other people about their experience",
+    "deVariants": [
+      "einen Abenteuerurlaub/einen Ausflug machen",
+      "einen Abenteuerurlaub",
+      "einen Ausflug machen"
+    ],
+    "enVariants": [
+      "ask other people about their experience"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "im Sommer (nach Kanada) fliegen",
+    "en": "go on an adventure holiday/an excursion",
+    "deVariants": [
+      "im Sommer (nach Kanada) fliegen"
+    ],
+    "enVariants": [
+      "go on an adventure holiday/an excursion",
+      "go on an adventure holiday",
+      "an excursion"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "am liebsten (in ein warmes Land) fahren",
+    "en": "fly (to Canada) in the summer",
+    "deVariants": [
+      "am liebsten (in ein warmes Land) fahren"
+    ],
+    "enVariants": [
+      "fly (to Canada) in the summer"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "(Bären) beobachten",
+    "en": "travel preferably (to a warm country)",
+    "deVariants": [
+      "(Bären) beobachten"
+    ],
+    "enVariants": [
+      "travel preferably (to a warm country)"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "das Land (mit dem Auto) entdecken",
+    "en": "experience adventure",
+    "deVariants": [
+      "das Land (mit dem Auto) entdecken"
+    ],
+    "enVariants": [
+      "experience adventure"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "die Insel (mit dem Fahrrad) erkunden",
+    "en": "observe (bears)",
+    "deVariants": [
+      "die Insel (mit dem Fahrrad) erkunden"
+    ],
+    "enVariants": [
+      "observe (bears)"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "sich im Urlaub erholen",
+    "en": "discover the country (by car)",
+    "deVariants": [
+      "sich im Urlaub erholen"
+    ],
+    "enVariants": [
+      "discover the country (by car)"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "Wärme/gute Hotels/leckeres Essen mögen",
+    "en": "explore the island (by bike)",
+    "deVariants": [
+      "Wärme/gute Hotels/leckeres Essen mögen",
+      "Wärme",
+      "gute Hotels",
+      "leckeres Essen mögen"
+    ],
+    "enVariants": [
+      "explore the island (by bike)"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "am Pool liegen",
+    "en": "recover during the vacation",
+    "deVariants": [
+      "am Pool liegen"
+    ],
+    "enVariants": [
+      "recover during the vacation"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "Städte besichtigen",
+    "en": "like warm weather/good hotels/good food",
+    "deVariants": [
+      "Städte besichtigen"
+    ],
+    "enVariants": [
+      "like warm weather/good hotels/good food",
+      "like warm weather",
+      "good hotels",
+      "good food"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "sich über das Urlaubsland informieren",
+    "en": "lie at the swimming pool",
+    "deVariants": [
+      "sich über das Urlaubsland informieren"
+    ],
+    "enVariants": [
+      "lie at the swimming pool"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "viel/wenig Gepäck mitnehmen",
+    "en": "find something boring",
+    "deVariants": [
+      "viel/wenig Gepäck mitnehmen",
+      "viel",
+      "wenig Gepäck mitnehmen"
+    ],
+    "enVariants": [
+      "find something boring"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "jemandem aus dem Urlaub ein Geschenk mitbringen",
+    "en": "do nothing",
+    "deVariants": [
+      "jemandem aus dem Urlaub ein Geschenk mitbringen"
+    ],
+    "enVariants": [
+      "do nothing"
+    ],
+    "topic": "Urlaub und Reisen"
+  },
+  {
+    "de": "das beliebteste Verkehrsmittel für Urlaubsreisen sein/bleiben",
+    "en": "be/remain the most popular means of transport for holiday trips",
+    "deVariants": [
+      "das beliebteste Verkehrsmittel für Urlaubsreisen sein/bleiben",
+      "das beliebteste Verkehrsmittel für Urlaubsreisen sein",
+      "bleiben"
+    ],
+    "enVariants": [
+      "be/remain the most popular means of transport for holiday trips",
+      "be",
+      "remain the most popular means of transport for holiday trips"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "das Flugzeug benutzen",
+    "en": "use the plane",
+    "deVariants": [
+      "das Flugzeug benutzen"
+    ],
+    "enVariants": [
+      "use the plane"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "einen Linienflug buchen",
+    "en": "book a (scheduled) flight",
+    "deVariants": [
+      "einen Linienflug buchen"
+    ],
+    "enVariants": [
+      "book a (scheduled) flight"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "mit der Fähre (nach Schweden) fahren",
+    "en": "take the ferry (to Sweden)",
+    "deVariants": [
+      "mit der Fähre (nach Schweden) fahren"
+    ],
+    "enVariants": [
+      "take the ferry (to Sweden)"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "mit dem Bus/dem Schiff reisen",
+    "en": "take the bus/boat",
+    "deVariants": [
+      "mit dem Bus/dem Schiff reisen",
+      "mit dem Bus",
+      "dem Schiff reisen"
+    ],
+    "enVariants": [
+      "take the bus/boat",
+      "take the bus",
+      "boat"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "ein Auto mieten",
+    "en": "rent a car",
+    "deVariants": [
+      "ein Auto mieten"
+    ],
+    "enVariants": [
+      "rent a car"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "das Auto stehen lassen",
+    "en": "leave the car (somewhere)",
+    "deVariants": [
+      "das Auto stehen lassen"
+    ],
+    "enVariants": [
+      "leave the car (somewhere)"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "stundenlang im Stau stehen",
+    "en": "spend hours in traffic jams",
+    "deVariants": [
+      "stundenlang im Stau stehen"
+    ],
+    "enVariants": [
+      "spend hours in traffic jams"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "Verspätung haben",
+    "en": "be delayed",
+    "deVariants": [
+      "Verspätung haben"
+    ],
+    "enVariants": [
+      "be delayed"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "das Gepäck nicht unbeaufsichtigt lassen",
+    "en": "leave the luggage unattended",
+    "deVariants": [
+      "das Gepäck nicht unbeaufsichtigt lassen"
+    ],
+    "enVariants": [
+      "leave the luggage unattended"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "zu einem Gate/Flugsteig gehen",
+    "en": "go to a gate",
+    "deVariants": [
+      "zu einem Gate/Flugsteig gehen",
+      "zu einem Gate",
+      "Flugsteig gehen"
+    ],
+    "enVariants": [
+      "go to a gate"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "sich am Ausgang befinden",
+    "en": "be located at the exit",
+    "deVariants": [
+      "sich am Ausgang befinden"
+    ],
+    "enVariants": [
+      "be located at the exit"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "von Gleis 4 abfahren",
+    "en": "leave from platform 4",
+    "deVariants": [
+      "von Gleis 4 abfahren"
+    ],
+    "enVariants": [
+      "leave from platform 4"
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "Ersatzbusse stehen zur Weiterfahrt bereit.",
+    "en": "Replacement busses are available for further travel.",
+    "deVariants": [
+      "Ersatzbusse stehen zur Weiterfahrt bereit."
+    ],
+    "enVariants": [
+      "Replacement busses are available for further travel."
+    ],
+    "topic": "Verkehr und Verkehrsmittel"
+  },
+  {
+    "de": "Nachrichtensendungen im Fernsehen sehen",
+    "en": "watch news programmes on TV",
+    "deVariants": [
+      "Nachrichtensendungen im Fernsehen sehen"
+    ],
+    "enVariants": [
+      "watch news programmes on TV"
+    ],
+    "topic": "Mediennutzung"
+  },
+  {
+    "de": "sich über aktuelle Politik informieren",
+    "en": "get the latest political news",
+    "deVariants": [
+      "sich über aktuelle Politik informieren"
+    ],
+    "enVariants": [
+      "get the latest political news"
+    ],
+    "topic": "Mediennutzung"
+  },
+  {
+    "de": "eine SMS senden",
+    "en": "check one's e-mail",
+    "deVariants": [
+      "eine SMS senden"
+    ],
+    "enVariants": [
+      "check one's e-mail"
+    ],
+    "topic": "Mediennutzung"
+  },
+  {
+    "de": "Informationen mit Freunden austauschen",
+    "en": "send an SMS",
+    "deVariants": [
+      "Informationen mit Freunden austauschen"
+    ],
+    "enVariants": [
+      "send an SMS"
+    ],
+    "topic": "Mediennutzung"
+  },
+  {
+    "de": "Musik im Radio hören",
+    "en": "exchange information with friends",
+    "deVariants": [
+      "Musik im Radio hören"
+    ],
+    "enVariants": [
+      "exchange information with friends"
+    ],
+    "topic": "Mediennutzung"
+  },
+  {
+    "de": "Filme im Internet herunterladen",
+    "en": "listen to music on the radio",
+    "deVariants": [
+      "Filme im Internet herunterladen"
+    ],
+    "enVariants": [
+      "listen to music on the radio"
+    ],
+    "topic": "Mediennutzung"
+  },
+  {
+    "de": "Spiele auf dem Smartphone spielen",
+    "en": "go to the cinema",
+    "deVariants": [
+      "Spiele auf dem Smartphone spielen"
+    ],
+    "enVariants": [
+      "go to the cinema"
+    ],
+    "topic": "Mediennutzung"
+  },
+  {
+    "de": "gern/am liebsten Spielfilme, Dokumentarfilme, Serien, Shows, Reportagen, politische Magazine sehen",
+    "en": "like to watch/watch preferably fiction, documentaries, series, shows, reports, political journals",
+    "deVariants": [
+      "gern/am liebsten Spielfilme, Dokumentarfilme, Serien, Shows, Reportagen, politische Magazine sehen",
+      "gern",
+      "am liebsten Spielfilme, Dokumentarfilme, Serien, Shows, Reportagen, politische Magazine sehen"
+    ],
+    "enVariants": [
+      "like to watch/watch preferably fiction, documentaries, series, shows, reports, political journals",
+      "like to watch",
+      "watch preferably fiction, documentaries, series, shows, reports, political journals"
+    ],
+    "topic": "Fernsehen"
+  },
+  {
+    "de": "sich für eine Sendung entscheiden",
+    "en": "choose a programme",
+    "deVariants": [
+      "sich für eine Sendung entscheiden"
+    ],
+    "enVariants": [
+      "choose a programme"
+    ],
+    "topic": "Fernsehen"
+  },
+  {
+    "de": "wenige/viele/die meisten Zuschauer haben",
+    "en": "be very popular",
+    "deVariants": [
+      "wenige/viele/die meisten Zuschauer haben",
+      "wenige",
+      "viele",
+      "die meisten Zuschauer haben"
+    ],
+    "enVariants": [
+      "be very popular"
+    ],
+    "topic": "Fernsehen"
+  },
+  {
+    "de": "auf dem Spitzenplatz liegen",
+    "en": "have only a few/many/the most viewers",
+    "deVariants": [
+      "auf dem Spitzenplatz liegen"
+    ],
+    "enVariants": [
+      "have only a few/many/the most viewers",
+      "have only a few",
+      "many",
+      "the most viewers"
+    ],
+    "topic": "Fernsehen"
+  },
+  {
+    "de": "auf Platz zwei folgen",
+    "en": "be on top of the list",
+    "deVariants": [
+      "auf Platz zwei folgen"
+    ],
+    "enVariants": [
+      "be on top of the list"
+    ],
+    "topic": "Fernsehen"
+  },
+  {
+    "de": "ein/kein neuer Trend sein",
+    "en": "follow on place two",
+    "deVariants": [
+      "ein/kein neuer Trend sein",
+      "ein",
+      "kein neuer Trend sein"
+    ],
+    "enVariants": [
+      "follow on place two"
+    ],
+    "topic": "Fernsehen"
+  },
+  {
+    "de": "(keine) Überraschungen bieten",
+    "en": "to come third place",
+    "deVariants": [
+      "(keine) Überraschungen bieten"
+    ],
+    "enVariants": [
+      "to come third place"
+    ],
+    "topic": "Fernsehen"
+  },
+  {
+    "de": "der Bundestag; die Bundestagswahl",
+    "en": "German parliament; parliamentary election",
+    "deVariants": [
+      "der Bundestag; die Bundestagswahl"
+    ],
+    "enVariants": [
+      "German parliament; parliamentary election"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "die Bundeskanzlerin/der Bundeskanzler",
+    "en": "female Chancellor/male Chancellor",
+    "deVariants": [
+      "die Bundeskanzlerin/der Bundeskanzler",
+      "die Bundeskanzlerin",
+      "der Bundeskanzler"
+    ],
+    "enVariants": [
+      "female Chancellor/male Chancellor",
+      "female Chancellor",
+      "male Chancellor"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "die Bundespräsidentin/der Bundespräsident",
+    "en": "female president of the Federal Republic/male president of the Federal Republic",
+    "deVariants": [
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bundespräsidentin",
+      "der Bundespräsident"
+    ],
+    "enVariants": [
+      "female president of the Federal Republic/male president of the Federal Republic",
+      "female president of the Federal Republic",
+      "male president of the Federal Republic"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "die Ministerin/der Minister",
+    "en": "female minister/male minister",
+    "deVariants": [
+      "die Ministerin/der Minister",
+      "die Ministerin",
+      "der Minister"
+    ],
+    "enVariants": [
+      "female minister/male minister",
+      "female minister",
+      "male minister"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "die/der Abgeordnete",
+    "en": "female/male deputy",
+    "deVariants": [
+      "die/der Abgeordnete",
+      "die",
+      "der Abgeordnete"
+    ],
+    "enVariants": [
+      "female/male deputy",
+      "female",
+      "male deputy"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "die Regierung",
+    "en": "government",
+    "deVariants": [
+      "die Regierung"
+    ],
+    "enVariants": [
+      "government"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "die Partei",
+    "en": "(political) party",
+    "deVariants": [
+      "die Partei"
+    ],
+    "enVariants": [
+      "(political) party"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "repräsentative Aufgaben übernehmen",
+    "en": "take on representative tasks",
+    "deVariants": [
+      "repräsentative Aufgaben übernehmen"
+    ],
+    "enVariants": [
+      "take on representative tasks"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "die Bundesregierung vertreten",
+    "en": "represent the federal government",
+    "deVariants": [
+      "die Bundesregierung vertreten"
+    ],
+    "enVariants": [
+      "represent the federal government"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "Richtlinien der Politik bestimmen",
+    "en": "determine the political guidelines",
+    "deVariants": [
+      "Richtlinien der Politik bestimmen"
+    ],
+    "enVariants": [
+      "determine the political guidelines"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "die Regierungsgeschäfte führen",
+    "en": "manage government affairs",
+    "deVariants": [
+      "die Regierungsgeschäfte führen"
+    ],
+    "enVariants": [
+      "manage government affairs"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "einen Kandidaten, eine Partei wählen",
+    "en": "elect a candidate, a party",
+    "deVariants": [
+      "einen Kandidaten, eine Partei wählen"
+    ],
+    "enVariants": [
+      "elect a candidate, a party"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "über Gesetze entscheiden",
+    "en": "decide on legislation",
+    "deVariants": [
+      "über Gesetze entscheiden"
+    ],
+    "enVariants": [
+      "decide on legislation"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "das Grundgesetz (die Verfassung) ändern",
+    "en": "modify the Constitution",
+    "deVariants": [
+      "das Grundgesetz (die Verfassung) ändern"
+    ],
+    "enVariants": [
+      "modify the Constitution"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "über finanzielle Mittel bestimmen",
+    "en": "decide about financial resources",
+    "deVariants": [
+      "über finanzielle Mittel bestimmen"
+    ],
+    "enVariants": [
+      "decide about financial resources"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "den Einsatz der Bundeswehr kontrollieren",
+    "en": "control the deployment of the Federal Armed Forces",
+    "deVariants": [
+      "den Einsatz der Bundeswehr kontrollieren"
+    ],
+    "enVariants": [
+      "control the deployment of the Federal Armed Forces"
+    ],
+    "topic": "Deutsche Politik"
+  },
+  {
+    "de": "mehrere Tätigkeiten gleichzeitig durchführen",
+    "en": "do several activities at the same time",
+    "deVariants": [
+      "mehrere Tätigkeiten gleichzeitig durchführen"
+    ],
+    "enVariants": [
+      "do several activities at the same time"
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "Dinge zur gleichen Zeit machen/tun",
+    "en": "do several things at the same time",
+    "deVariants": [
+      "Dinge zur gleichen Zeit machen/tun",
+      "Dinge zur gleichen Zeit machen",
+      "tun"
+    ],
+    "enVariants": [
+      "do several things at the same time"
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "beim Fernsehen bügeln",
+    "en": "iron while watching TV",
+    "deVariants": [
+      "beim Fernsehen bügeln"
+    ],
+    "enVariants": [
+      "iron while watching TV"
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "nur die Hälfte verstehen",
+    "en": "take notes while being on the phone",
+    "deVariants": [
+      "nur die Hälfte verstehen"
+    ],
+    "enVariants": [
+      "take notes while being on the phone"
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "sich auf eine Sache konzentrieren",
+    "en": "understand only half of it",
+    "deVariants": [
+      "sich auf eine Sache konzentrieren"
+    ],
+    "enVariants": [
+      "understand only half of it"
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "Eine Tätigkeit läuft automatisch ab.",
+    "en": "concentrate on one thing only",
+    "deVariants": [
+      "Eine Tätigkeit läuft automatisch ab."
+    ],
+    "enVariants": [
+      "concentrate on one thing only"
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "Die Leistungsfähigkeit sinkt.",
+    "en": "An activity is carried out automatically.",
+    "deVariants": [
+      "Die Leistungsfähigkeit sinkt."
+    ],
+    "enVariants": [
+      "An activity is carried out automatically."
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "Die Fehlerquote steigt.",
+    "en": "The efficiency is decreasing.",
+    "deVariants": [
+      "Die Fehlerquote steigt."
+    ],
+    "enVariants": [
+      "The efficiency is decreasing."
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "zu einem Ergebnis kommen",
+    "en": "The error ratio is increasing.",
+    "deVariants": [
+      "zu einem Ergebnis kommen"
+    ],
+    "enVariants": [
+      "The error ratio is increasing."
+    ],
+    "topic": "Multitasking"
+  },
+  {
+    "de": "sich für (Neuigkeiten aus dem Inland, aus dem Ausland, aus der Wirtschaft, aus Kunst und Kultur) interessieren",
+    "en": "be interested in (national news, international news, economic news, news about art and culture)",
+    "deVariants": [
+      "sich für (Neuigkeiten aus dem Inland, aus dem Ausland, aus der Wirtschaft, aus Kunst und Kultur) interessieren"
+    ],
+    "enVariants": [
+      "be interested in (national news, international news, economic news, news about art and culture)"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "Maßnahmen treffen",
+    "en": "finish/build new flats",
+    "deVariants": [
+      "Maßnahmen treffen"
+    ],
+    "enVariants": [
+      "finish/build new flats",
+      "finish",
+      "build new flats"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "unterschiedliche Folgen haben",
+    "en": "take measures",
+    "deVariants": [
+      "unterschiedliche Folgen haben"
+    ],
+    "enVariants": [
+      "take measures"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "mit (der finanziellen Situation) zufrieden sein",
+    "en": "attend a meeting",
+    "deVariants": [
+      "mit (der finanziellen Situation) zufrieden sein"
+    ],
+    "enVariants": [
+      "attend a meeting"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "Geld (auf der Bank) sparen",
+    "en": "expect results",
+    "deVariants": [
+      "Geld (auf der Bank) sparen"
+    ],
+    "enVariants": [
+      "expect results"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "Geld (für Reisen) ausgeben",
+    "en": "have various consequences",
+    "deVariants": [
+      "Geld (für Reisen) ausgeben"
+    ],
+    "enVariants": [
+      "have various consequences"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "einen Käufer finden",
+    "en": "be happy (about one's financial situation)",
+    "deVariants": [
+      "einen Käufer finden"
+    ],
+    "enVariants": [
+      "be happy (about one's financial situation)"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "auf der Liste der gefährlichsten Tiere stehen",
+    "en": "save money (at the bank)",
+    "deVariants": [
+      "auf der Liste der gefährlichsten Tiere stehen"
+    ],
+    "enVariants": [
+      "save money (at the bank)"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "vor einer Gefahr warnen",
+    "en": "spend money (on travelling)",
+    "deVariants": [
+      "vor einer Gefahr warnen"
+    ],
+    "enVariants": [
+      "spend money (on travelling)"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "an einer Krankheit/durch Mückenstiche sterben",
+    "en": "bring return on investment",
+    "deVariants": [
+      "an einer Krankheit/durch Mückenstiche sterben",
+      "an einer Krankheit",
+      "durch Mückenstiche sterben"
+    ],
+    "enVariants": [
+      "bring return on investment"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "tödliche Krankheiten übertragen",
+    "en": "offer works of art",
+    "deVariants": [
+      "tödliche Krankheiten übertragen"
+    ],
+    "enVariants": [
+      "offer works of art"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "ideale Lebensbedingungen (für Mücken) bieten",
+    "en": "find a buyer",
+    "deVariants": [
+      "ideale Lebensbedingungen (für Mücken) bieten"
+    ],
+    "enVariants": [
+      "find a buyer"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "Gespräche finden statt.",
+    "en": "see art as an investment",
+    "deVariants": [
+      "Gespräche finden statt."
+    ],
+    "enVariants": [
+      "see art as an investment"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "im Mittelpunkt stehen",
+    "en": "be on the list of the most dangerous animals",
+    "deVariants": [
+      "im Mittelpunkt stehen"
+    ],
+    "enVariants": [
+      "be on the list of the most dangerous animals"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "die Zusammenarbeit vertiefen und verbessern",
+    "en": "warn against a danger",
+    "deVariants": [
+      "die Zusammenarbeit vertiefen und verbessern"
+    ],
+    "enVariants": [
+      "warn against a danger"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "zum Weltkulturerbe gehören",
+    "en": "die from an illness/mosquito bites",
+    "deVariants": [
+      "zum Weltkulturerbe gehören"
+    ],
+    "enVariants": [
+      "die from an illness/mosquito bites",
+      "die from an illness",
+      "mosquito bites"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "Bauwerke in die Liste des Weltkulturerbes aufnehmen",
+    "en": "transmit deadly illnesses",
+    "deVariants": [
+      "Bauwerke in die Liste des Weltkulturerbes aufnehmen"
+    ],
+    "enVariants": [
+      "transmit deadly illnesses"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "großen Einfluss (auf die Architektur) haben",
+    "en": "offer ideal living conditions (for mosquitos)",
+    "deVariants": [
+      "großen Einfluss (auf die Architektur) haben"
+    ],
+    "enVariants": [
+      "offer ideal living conditions (for mosquitos)"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "die Kriminalstatistik präsentieren",
+    "en": "Discussions take place.",
+    "deVariants": [
+      "die Kriminalstatistik präsentieren"
+    ],
+    "enVariants": [
+      "Discussions take place."
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "die gefährlichste Stadt in Deutschland sein",
+    "en": "be in focus, take centre stage",
+    "deVariants": [
+      "die gefährlichste Stadt in Deutschland sein"
+    ],
+    "enVariants": [
+      "be in focus, take centre stage"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "ein Fußballspiel verlieren/gewinnen",
+    "en": "consolidate and improve collaboration",
+    "deVariants": [
+      "ein Fußballspiel verlieren/gewinnen",
+      "ein Fußballspiel verlieren",
+      "gewinnen"
+    ],
+    "enVariants": [
+      "consolidate and improve collaboration"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "Die Sonne scheint. Es ist wolkig. Es regnet.",
+    "en": "belong to the World Heritage",
+    "deVariants": [
+      "Die Sonne scheint. Es ist wolkig. Es regnet."
+    ],
+    "enVariants": [
+      "belong to the World Heritage"
+    ],
+    "topic": "Aktuelles"
+  },
+  {
+    "de": "ein Spiel erfinden",
+    "en": "invent a game/toy",
+    "deVariants": [
+      "ein Spiel erfinden"
+    ],
+    "enVariants": [
+      "invent a game/toy",
+      "invent a game",
+      "toy"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "von einer Firma stammen",
+    "en": "come from a company",
+    "deVariants": [
+      "von einer Firma stammen"
+    ],
+    "enVariants": [
+      "come from a company"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "ein Medikament entwickeln",
+    "en": "develop medication",
+    "deVariants": [
+      "ein Medikament entwickeln"
+    ],
+    "enVariants": [
+      "develop medication"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "Nebenwirkungen haben",
+    "en": "have side effects",
+    "deVariants": [
+      "Nebenwirkungen haben"
+    ],
+    "enVariants": [
+      "have side effects"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "ein Getränk herstellen",
+    "en": "produce a drink",
+    "deVariants": [
+      "ein Getränk herstellen"
+    ],
+    "enVariants": [
+      "produce a drink"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "Experimente weiterführen",
+    "en": "examine effects",
+    "deVariants": [
+      "Experimente weiterführen"
+    ],
+    "enVariants": [
+      "examine effects"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "Resultate präsentieren",
+    "en": "continue with experimenting",
+    "deVariants": [
+      "Resultate präsentieren"
+    ],
+    "enVariants": [
+      "continue with experimenting"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "den Zahlungsverkehr revolutionieren",
+    "en": "present results",
+    "deVariants": [
+      "den Zahlungsverkehr revolutionieren"
+    ],
+    "enVariants": [
+      "present results"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "eine Erfindung wichtig/nützlich finden",
+    "en": "sell 70 million games/toys",
+    "deVariants": [
+      "eine Erfindung wichtig/nützlich finden",
+      "eine Erfindung wichtig",
+      "nützlich finden"
+    ],
+    "enVariants": [
+      "sell 70 million games/toys",
+      "sell 70 million games",
+      "toys"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "eine wichtige Rolle im Alltag spielen",
+    "en": "save lives",
+    "deVariants": [
+      "eine wichtige Rolle im Alltag spielen"
+    ],
+    "enVariants": [
+      "save lives"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "Die Vorschrift gilt bis heute.",
+    "en": "revolutionise payment transactions",
+    "deVariants": [
+      "Die Vorschrift gilt bis heute."
+    ],
+    "enVariants": [
+      "revolutionise payment transactions"
+    ],
+    "topic": "Erfindungen"
+  },
+  {
+    "de": "ein technisches Gerät nutzen/benutzen",
+    "en": "use a technical device",
+    "deVariants": [
+      "ein technisches Gerät nutzen/benutzen",
+      "ein technisches Gerät nutzen",
+      "benutzen"
+    ],
+    "enVariants": [
+      "use a technical device"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "die Bedienungsanleitung lesen",
+    "en": "read the user's manual",
+    "deVariants": [
+      "die Bedienungsanleitung lesen"
+    ],
+    "enVariants": [
+      "read the user's manual"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "ein Gerät anschalten",
+    "en": "switch the device on",
+    "deVariants": [
+      "ein Gerät anschalten"
+    ],
+    "enVariants": [
+      "switch the device on"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "Geräte/eine Maschine bedienen",
+    "en": "operate devices/a machine",
+    "deVariants": [
+      "Geräte/eine Maschine bedienen",
+      "Geräte",
+      "eine Maschine bedienen"
+    ],
+    "enVariants": [
+      "operate devices/a machine",
+      "operate devices",
+      "a machine"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "ein Gerät mit dem Smartphone steuern",
+    "en": "control a device by smartphone",
+    "deVariants": [
+      "ein Gerät mit dem Smartphone steuern"
+    ],
+    "enVariants": [
+      "control a device by smartphone"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "ein Gerät an Wasser und Strom anschließen",
+    "en": "connect a device to water and electricity",
+    "deVariants": [
+      "ein Gerät an Wasser und Strom anschließen"
+    ],
+    "enVariants": [
+      "connect a device to water and electricity"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "eine Tür öffnen/schließen",
+    "en": "open/close a door",
+    "deVariants": [
+      "eine Tür öffnen/schließen",
+      "eine Tür öffnen",
+      "schließen"
+    ],
+    "enVariants": [
+      "open/close a door",
+      "open",
+      "close a door"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "einen Knopf drehen",
+    "en": "turn a button",
+    "deVariants": [
+      "einen Knopf drehen"
+    ],
+    "enVariants": [
+      "turn a button"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "ein Programm einstellen",
+    "en": "set a program",
+    "deVariants": [
+      "ein Programm einstellen"
+    ],
+    "enVariants": [
+      "set a program"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "etwas auf dem Display sehen",
+    "en": "see something on the display",
+    "deVariants": [
+      "etwas auf dem Display sehen"
+    ],
+    "enVariants": [
+      "see something on the display"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "eine Taste drücken",
+    "en": "press a key/button",
+    "deVariants": [
+      "eine Taste drücken"
+    ],
+    "enVariants": [
+      "press a key/button",
+      "press a key",
+      "button"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "ein Gerät reparieren lassen/reklamieren/umtauschen",
+    "en": "have a device repaired/complain about/exchange",
+    "deVariants": [
+      "ein Gerät reparieren lassen/reklamieren/umtauschen",
+      "ein Gerät reparieren lassen",
+      "reklamieren",
+      "umtauschen"
+    ],
+    "enVariants": [
+      "have a device repaired/complain about/exchange",
+      "have a device repaired",
+      "complain about",
+      "exchange"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "Garantie haben",
+    "en": "have a warranty",
+    "deVariants": [
+      "Garantie haben"
+    ],
+    "enVariants": [
+      "have a warranty"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "den Kassenzettel mithaben/zeigen",
+    "en": "have/show the receipt",
+    "deVariants": [
+      "den Kassenzettel mithaben/zeigen",
+      "den Kassenzettel mithaben",
+      "zeigen"
+    ],
+    "enVariants": [
+      "have/show the receipt",
+      "have",
+      "show the receipt"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "sein Geld zurückbekommen",
+    "en": "get one's money back",
+    "deVariants": [
+      "sein Geld zurückbekommen"
+    ],
+    "enVariants": [
+      "get one's money back"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "mit etwas einverstanden sein",
+    "en": "agree with something",
+    "deVariants": [
+      "mit etwas einverstanden sein"
+    ],
+    "enVariants": [
+      "agree with something"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "beim Kauf auf (den Preis/das Design) achten",
+    "en": "suggest something",
+    "deVariants": [
+      "beim Kauf auf (den Preis/das Design) achten",
+      "beim Kauf auf (den Preis",
+      "das Design) achten"
+    ],
+    "enVariants": [
+      "suggest something"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "den Akku wechseln",
+    "en": "watch (the price/the design) when buying something",
+    "deVariants": [
+      "den Akku wechseln"
+    ],
+    "enVariants": [
+      "watch (the price/the design) when buying something",
+      "watch (the price",
+      "the design) when buying something"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "eine kürzere/längere Laufzeit haben",
+    "en": "change the battery",
+    "deVariants": [
+      "eine kürzere/längere Laufzeit haben",
+      "eine kürzere",
+      "längere Laufzeit haben"
+    ],
+    "enVariants": [
+      "change the battery"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "eine Auftragsnummer durchgeben",
+    "en": "have a shorter/longer life span",
+    "deVariants": [
+      "eine Auftragsnummer durchgeben"
+    ],
+    "enVariants": [
+      "have a shorter/longer life span",
+      "have a shorter",
+      "longer life span"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "technische Geräte/Geräte im Haushalt (Auswahl): der Kühlschrank, der Herd, die Geschirrspülmaschine, die Kaffeemaschine, die Mikrowelle, das Bügeleisen, die Waschmaschine",
+    "en": "give the tracking number",
+    "deVariants": [
+      "technische Geräte/Geräte im Haushalt (Auswahl): der Kühlschrank, der Herd, die Geschirrspülmaschine, die Kaffeemaschine, die Mikrowelle, das Bügeleisen, die Waschmaschine",
+      "technische Geräte",
+      "Geräte im Haushalt (Auswahl): der Kühlschrank, der Herd, die Geschirrspülmaschine, die Kaffeemaschine, die Mikrowelle, das Bügeleisen, die Waschmaschine"
+    ],
+    "enVariants": [
+      "give the tracking number"
+    ],
+    "topic": "Technik und Geräte"
+  },
+  {
+    "de": "Ich möchte bitte (Frau Klein) sprechen.",
+    "en": "I would like to talk to (Mrs. Klein), please.",
+    "deVariants": [
+      "Ich möchte bitte (Frau Klein) sprechen."
+    ],
+    "enVariants": [
+      "I would like to talk to (Mrs. Klein), please."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Könnte ich bitte (Frau Klein) sprechen?",
+    "en": "Could I talk to (Mrs. Klein), please?",
+    "deVariants": [
+      "Könnte ich bitte (Frau Klein) sprechen?"
+    ],
+    "enVariants": [
+      "Could I talk to (Mrs. Klein), please?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Können/Könnten Sie mich mit (Frau Schwarz) verbinden?",
+    "en": "Can/Could you put me through to (Mrs. Schwarz)?",
+    "deVariants": [
+      "Können/Könnten Sie mich mit (Frau Schwarz) verbinden?",
+      "Können/Könntest du mich mit (Frau Schwarz) verbinden?"
+    ],
+    "enVariants": [
+      "Can/Could you put me through to (Mrs. Schwarz)?",
+      "Can",
+      "Could you put me through to (Mrs. Schwarz)?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Es geht um (ein neues Projekt).",
+    "en": "It is about (a new project).",
+    "deVariants": [
+      "Es geht um (ein neues Projekt)."
+    ],
+    "enVariants": [
+      "It is about (a new project)."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Hätten Sie (am Mittwoch um 11.00 Uhr) Zeit?",
+    "en": "Would you have time (on Wednesday at 11)?",
+    "deVariants": [
+      "Hätten Sie (am Mittwoch um 11.00 Uhr) Zeit?"
+    ],
+    "enVariants": [
+      "Would you have time (on Wednesday at 11)?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Ich möchte einen Termin vereinbaren.",
+    "en": "I would like to make an appointment.",
+    "deVariants": [
+      "Ich möchte einen Termin vereinbaren."
+    ],
+    "enVariants": [
+      "I would like to make an appointment."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Wann hätten Sie Zeit?",
+    "en": "When would you have time?",
+    "deVariants": [
+      "Wann hätten Sie Zeit?"
+    ],
+    "enVariants": [
+      "When would you have time?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Passt es Ihnen (am Mittwoch)?",
+    "en": "Does (Wednesday) suit you?",
+    "deVariants": [
+      "Passt es Ihnen (am Mittwoch)?"
+    ],
+    "enVariants": [
+      "Does (Wednesday) suit you?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Bitte richten Sie (Frau Klein) aus, dass ich angerufen habe.",
+    "en": "Please tell (Mrs. Klein) that I have called.",
+    "deVariants": [
+      "Bitte richten Sie (Frau Klein) aus, dass ich angerufen habe."
+    ],
+    "enVariants": [
+      "Please tell (Mrs. Klein) that I have called."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Könnten Sie (Frau Klein) sagen, dass sie mich zurückrufen soll?",
+    "en": "Could you tell (Mrs. Klein) that she should call me back?",
+    "deVariants": [
+      "Könnten Sie (Frau Klein) sagen, dass sie mich zurückrufen soll?",
+      "Könntest du (Frau Klein) sagen, dass sie mich zurückrufen soll?"
+    ],
+    "enVariants": [
+      "Could you tell (Mrs. Klein) that she should call me back?"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Vielen Dank für (Ihre Hilfe).",
+    "en": "Many thanks for (your help).",
+    "deVariants": [
+      "Vielen Dank für (Ihre Hilfe)."
+    ],
+    "enVariants": [
+      "Many thanks for (your help)."
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "Auf Wiederhören.",
+    "en": "Goodbye. (on the telephone)",
+    "deVariants": [
+      "Auf Wiederhören."
+    ],
+    "enVariants": [
+      "Goodbye. (on the telephone)"
+    ],
+    "topic": "Telefonieren"
+  },
+  {
+    "de": "eine kleine/mittelständige Firma sein",
+    "en": "be a small/middle-sized company",
+    "deVariants": [
+      "eine kleine/mittelständige Firma sein",
+      "eine kleine",
+      "mittelständige Firma sein"
+    ],
+    "enVariants": [
+      "be a small/middle-sized company",
+      "be a small",
+      "middle-sized company"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "ein großes Unternehmen sein",
+    "en": "be a large company",
+    "deVariants": [
+      "ein großes Unternehmen sein"
+    ],
+    "enVariants": [
+      "be a large company"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "eine Firma gründen/wurde gegründet",
+    "en": "have factories/branch offices in (Berlin)",
+    "deVariants": [
+      "eine Firma gründen/wurde gegründet",
+      "eine Firma gründen",
+      "wurde gegründet"
+    ],
+    "enVariants": [
+      "have factories/branch offices in (Berlin)",
+      "have factories",
+      "branch offices in (Berlin)"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "beste Qualität bieten/haben",
+    "en": "found a company/a company was founded",
+    "deVariants": [
+      "beste Qualität bieten/haben",
+      "beste Qualität bieten",
+      "haben"
+    ],
+    "enVariants": [
+      "found a company/a company was founded",
+      "found a company",
+      "a company was founded"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "motiviert und gut qualifiziert sein",
+    "en": "produce/purchase/sell/ transport something",
+    "deVariants": [
+      "motiviert und gut qualifiziert sein"
+    ],
+    "enVariants": [
+      "produce/purchase/sell/ transport something",
+      "produce",
+      "purchase",
+      "sell",
+      "transport something"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "das Unternehmen weiter vergrößern",
+    "en": "advise clients",
+    "deVariants": [
+      "das Unternehmen weiter vergrößern"
+    ],
+    "enVariants": [
+      "advise clients"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "Die Brüder Dassler",
+    "en": "offer/have the best quality",
+    "deVariants": [
+      "Die Brüder Dassler"
+    ],
+    "enVariants": [
+      "offer/have the best quality",
+      "offer",
+      "have the best quality"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "sich für (viele Sportarten) interessieren",
+    "en": "be motivated and have the right qualifications",
+    "deVariants": [
+      "sich für (viele Sportarten) interessieren"
+    ],
+    "enVariants": [
+      "be motivated and have the right qualifications"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "aus dem Interesse ein Geschäft machen",
+    "en": "continue expanding the company",
+    "deVariants": [
+      "aus dem Interesse ein Geschäft machen"
+    ],
+    "enVariants": [
+      "continue expanding the company"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "Schuhe nähen/kleben/herstellen",
+    "en": "look for new clients/new co-workers",
+    "deVariants": [
+      "Schuhe nähen/kleben/herstellen",
+      "Schuhe nähen",
+      "kleben",
+      "herstellen"
+    ],
+    "enVariants": [
+      "look for new clients/new co-workers",
+      "look for new clients",
+      "new co-workers"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "an der Weiterentwicklung (der Schuhe) arbeiten",
+    "en": "The Dassler Brothers",
+    "deVariants": [
+      "an der Weiterentwicklung (der Schuhe) arbeiten"
+    ],
+    "enVariants": [
+      "The Dassler Brothers"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "zur Armee müssen",
+    "en": "be interested in (many types of sports)",
+    "deVariants": [
+      "zur Armee müssen"
+    ],
+    "enVariants": [
+      "be interested in (many types of sports)"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "der Firma einen Namen geben",
+    "en": "transform an interest into a business",
+    "deVariants": [
+      "der Firma einen Namen geben"
+    ],
+    "enVariants": [
+      "transform an interest into a business"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "zu Konkurrenten werden",
+    "en": "sew/glue/produce shoes",
+    "deVariants": [
+      "zu Konkurrenten werden"
+    ],
+    "enVariants": [
+      "sew/glue/produce shoes",
+      "sew",
+      "glue",
+      "produce shoes"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "ein Duell gewinnen",
+    "en": "enter a company",
+    "deVariants": [
+      "ein Duell gewinnen"
+    ],
+    "enVariants": [
+      "enter a company"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "Es kommt zu (Streit/Intrigen).",
+    "en": "work on improving (the shoes)",
+    "deVariants": [
+      "Es kommt zu (Streit/Intrigen).",
+      "Es kommt zu (Streit",
+      "Intrigen)."
+    ],
+    "enVariants": [
+      "work on improving (the shoes)"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "zum endgültigen Bruch führen",
+    "en": "must go to the Army",
+    "deVariants": [
+      "zum endgültigen Bruch führen"
+    ],
+    "enVariants": [
+      "must go to the Army"
+    ],
+    "topic": "Firmen und Firmenpräsentation"
+  },
+  {
+    "de": "(überhaupt keinen) Sport treiben",
+    "en": "do no sports at all/do sports",
+    "deVariants": [
+      "(überhaupt keinen) Sport treiben"
+    ],
+    "enVariants": [
+      "do no sports at all/do sports",
+      "do no sports at all",
+      "do sports"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "Sportsendungen (im Fernsehen) sehen",
+    "en": "be a member of a sports club",
+    "deVariants": [
+      "Sportsendungen (im Fernsehen) sehen"
+    ],
+    "enVariants": [
+      "be a member of a sports club"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "Yoga (aus Spaß) machen",
+    "en": "watch sports programmes (on TV)",
+    "deVariants": [
+      "Yoga (aus Spaß) machen"
+    ],
+    "enVariants": [
+      "watch sports programmes (on TV)"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "an Wettkämpfen/an einem Marathonlauf teilnehmen",
+    "en": "do yoga (for fun)",
+    "deVariants": [
+      "an Wettkämpfen/an einem Marathonlauf teilnehmen",
+      "an Wettkämpfen",
+      "an einem Marathonlauf teilnehmen"
+    ],
+    "enVariants": [
+      "do yoga (for fun)"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "sich auf einen Wettkampf vorbereiten",
+    "en": "attend competitions/a marathon run",
+    "deVariants": [
+      "sich auf einen Wettkampf vorbereiten"
+    ],
+    "enVariants": [
+      "attend competitions/a marathon run",
+      "attend competitions",
+      "a marathon run"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "ans/ins Ziel kommen",
+    "en": "prepare for a competition",
+    "deVariants": [
+      "ans/ins Ziel kommen",
+      "ans",
+      "ins Ziel kommen"
+    ],
+    "enVariants": [
+      "prepare for a competition"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "zu Fußballspielen gehen",
+    "en": "reach the finish line",
+    "deVariants": [
+      "zu Fußballspielen gehen"
+    ],
+    "enVariants": [
+      "reach the finish line"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "fünf Stunden in der Woche trainieren",
+    "en": "visit sporting events",
+    "deVariants": [
+      "fünf Stunden in der Woche trainieren"
+    ],
+    "enVariants": [
+      "visit sporting events"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "sich eine Stunde Zeit nehmen",
+    "en": "go to football games",
+    "deVariants": [
+      "sich eine Stunde Zeit nehmen"
+    ],
+    "enVariants": [
+      "go to football games"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "zum Training/ins Fitnessstudio gehen",
+    "en": "train five hours a week",
+    "deVariants": [
+      "zum Training/ins Fitnessstudio gehen",
+      "zum Training",
+      "ins Fitnessstudio gehen"
+    ],
+    "enVariants": [
+      "train five hours a week"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "etwas für die Fitness tun",
+    "en": "give oneself an hour",
+    "deVariants": [
+      "etwas für die Fitness tun"
+    ],
+    "enVariants": [
+      "give oneself an hour"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "sich (viel/zu wenig) bewegen",
+    "en": "go to the training/fitness centre",
+    "deVariants": [
+      "sich (viel/zu wenig) bewegen",
+      "sich (viel",
+      "zu wenig) bewegen"
+    ],
+    "enVariants": [
+      "go to the training/fitness centre",
+      "go to the training",
+      "fitness centre"
+    ],
+    "topic": "Sport"
+  },
+  {
+    "de": "zu einem Hausarzt/Allgemeinmediziner gehen",
+    "en": "become/be ill",
+    "deVariants": [
+      "zu einem Hausarzt/Allgemeinmediziner gehen",
+      "zu einem Hausarzt",
+      "Allgemeinmediziner gehen"
+    ],
+    "enVariants": [
+      "become/be ill",
+      "become",
+      "be ill"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "Patienten untersuchen und behandeln",
+    "en": "go to the GP",
+    "deVariants": [
+      "Patienten untersuchen und behandeln"
+    ],
+    "enVariants": [
+      "go to the GP"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "Medikamente/eine Physiotherapie verschreiben",
+    "en": "examine and treat patients",
+    "deVariants": [
+      "Medikamente/eine Physiotherapie verschreiben",
+      "Medikamente",
+      "eine Physiotherapie verschreiben"
+    ],
+    "enVariants": [
+      "examine and treat patients"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "Medikamente aus der Apotheke holen",
+    "en": "prescribe medicine/physiotherapy",
+    "deVariants": [
+      "Medikamente aus der Apotheke holen"
+    ],
+    "enVariants": [
+      "prescribe medicine/physiotherapy",
+      "prescribe medicine",
+      "physiotherapy"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "den Patienten zu einem Facharzt überweisen",
+    "en": "get medicine from the pharmacy",
+    "deVariants": [
+      "den Patienten zu einem Facharzt überweisen"
+    ],
+    "enVariants": [
+      "get medicine from the pharmacy"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "auf einen Termin beim Facharzt warten",
+    "en": "transfer patients to a specialist",
+    "deVariants": [
+      "auf einen Termin beim Facharzt warten"
+    ],
+    "enVariants": [
+      "transfer patients to a specialist"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "das deutsche Gesundheitssystem",
+    "en": "wait for an appointment at the specialist",
+    "deVariants": [
+      "das deutsche Gesundheitssystem"
+    ],
+    "enVariants": [
+      "wait for an appointment at the specialist"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "die Behandlungskosten übernehmen/bezahlen",
+    "en": "the German health system",
+    "deVariants": [
+      "die Behandlungskosten übernehmen/bezahlen",
+      "die Behandlungskosten übernehmen",
+      "bezahlen"
+    ],
+    "enVariants": [
+      "the German health system"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "bei einer (gesetzlichen/privaten) Krankenkasse versichert sein/krankenversichert sein",
+    "en": "bear/pay the medical costs",
+    "deVariants": [
+      "bei einer (gesetzlichen/privaten) Krankenkasse versichert sein/krankenversichert sein",
+      "bei einer (gesetzlichen",
+      "privaten) Krankenkasse versichert sein",
+      "krankenversichert sein"
+    ],
+    "enVariants": [
+      "bear/pay the medical costs",
+      "bear",
+      "pay the medical costs"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "bei schweren Krankheiten/für eine Operation ins Krankenhaus kommen",
+    "en": "be insured by a (public/private) health insurance company",
+    "deVariants": [
+      "bei schweren Krankheiten/für eine Operation ins Krankenhaus kommen",
+      "bei schweren Krankheiten",
+      "für eine Operation ins Krankenhaus kommen"
+    ],
+    "enVariants": [
+      "be insured by a (public/private) health insurance company",
+      "be insured by a (public",
+      "private) health insurance company"
+    ],
+    "topic": "Gesundheitssystem"
+  },
+  {
+    "de": "sich körperlich fit fühlen",
+    "en": "feel oneself to be fit",
+    "deVariants": [
+      "sich körperlich fit fühlen"
+    ],
+    "enVariants": [
+      "feel oneself to be fit"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "gut für den Körper sein",
+    "en": "be good for the body",
+    "deVariants": [
+      "gut für den Körper sein"
+    ],
+    "enVariants": [
+      "be good for the body"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "sich beim Lernen besser konzentrieren können",
+    "en": "be able to concentrate better when learning",
+    "deVariants": [
+      "sich beim Lernen besser konzentrieren können"
+    ],
+    "enVariants": [
+      "be able to concentrate better when learning"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "die Konzentration verbessern",
+    "en": "improve concentration",
+    "deVariants": [
+      "die Konzentration verbessern"
+    ],
+    "enVariants": [
+      "improve concentration"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "das Immunsystem stärken",
+    "en": "decrease stress",
+    "deVariants": [
+      "das Immunsystem stärken"
+    ],
+    "enVariants": [
+      "decrease stress"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "den Körper fit halten",
+    "en": "strengthen the immune system",
+    "deVariants": [
+      "den Körper fit halten"
+    ],
+    "enVariants": [
+      "strengthen the immune system"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "die Folgen des Jetlags reduzieren",
+    "en": "keep the body fit",
+    "deVariants": [
+      "die Folgen des Jetlags reduzieren"
+    ],
+    "enVariants": [
+      "keep the body fit"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "den ganzen Tag in Vorlesungen/im Büro sitzen",
+    "en": "reduce the effects of jetlag",
+    "deVariants": [
+      "den ganzen Tag in Vorlesungen/im Büro sitzen",
+      "den ganzen Tag in Vorlesungen",
+      "im Büro sitzen"
+    ],
+    "enVariants": [
+      "reduce the effects of jetlag"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "Der Arbeitsdruck wächst.",
+    "en": "be/stay healthy",
+    "deVariants": [
+      "Der Arbeitsdruck wächst."
+    ],
+    "enVariants": [
+      "be/stay healthy",
+      "be",
+      "stay healthy"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "Es gibt (keine) Grenzen zwischen Arbeit und Freizeit.",
+    "en": "Sports gives energy.",
+    "deVariants": [
+      "Es gibt (keine) Grenzen zwischen Arbeit und Freizeit."
+    ],
+    "enVariants": [
+      "Sports gives energy."
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "eine Ausrede haben",
+    "en": "sit in lectures/in an office the whole day",
+    "deVariants": [
+      "eine Ausrede haben"
+    ],
+    "enVariants": [
+      "sit in lectures/in an office the whole day",
+      "sit in lectures",
+      "in an office the whole day"
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "den eigenen Gesundheitszustand als gut beschreiben",
+    "en": "Work pressure is increasing.",
+    "deVariants": [
+      "den eigenen Gesundheitszustand als gut beschreiben"
+    ],
+    "enVariants": [
+      "Work pressure is increasing."
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "„Sport ist die beste Medizin.“",
+    "en": "There is (no) separation between work and free time.",
+    "deVariants": [
+      "„Sport ist die beste Medizin.“"
+    ],
+    "enVariants": [
+      "There is (no) separation between work and free time."
+    ],
+    "topic": "Fit und gesund"
+  },
+  {
+    "de": "einen Ratgeber kaufen",
+    "en": "buy a self-help book",
+    "deVariants": [
+      "einen Ratgeber kaufen"
+    ],
+    "enVariants": [
+      "buy a self-help book"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "ein erfolgreiches/glückliches Leben versprechen",
+    "en": "promise a successful/happy life",
+    "deVariants": [
+      "ein erfolgreiches/glückliches Leben versprechen",
+      "ein erfolgreiches",
+      "glückliches Leben versprechen"
+    ],
+    "enVariants": [
+      "promise a successful/happy life",
+      "promise a successful",
+      "happy life"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "täglich 60 000 Gedanken haben",
+    "en": "learn positive thinking",
+    "deVariants": [
+      "täglich 60 000 Gedanken haben"
+    ],
+    "enVariants": [
+      "learn positive thinking"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "sich zu sehr auf Fehler konzentrieren",
+    "en": "have 60 000 thoughts a day",
+    "deVariants": [
+      "sich zu sehr auf Fehler konzentrieren"
+    ],
+    "enVariants": [
+      "have 60 000 thoughts a day"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "Angst haben, etwas falsch zu machen",
+    "en": "concentrate too much on mistakes",
+    "deVariants": [
+      "Angst haben, etwas falsch zu machen"
+    ],
+    "enVariants": [
+      "concentrate too much on mistakes"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "zu lange über Probleme nachdenken",
+    "en": "be afraid to make a mistake",
+    "deVariants": [
+      "zu lange über Probleme nachdenken"
+    ],
+    "enVariants": [
+      "be afraid to make a mistake"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "Probleme lösen",
+    "en": "think about problems for too long",
+    "deVariants": [
+      "Probleme lösen"
+    ],
+    "enVariants": [
+      "think about problems for too long"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "zu sich selbst und zu anderen freundlich sein",
+    "en": "solve problems",
+    "deVariants": [
+      "zu sich selbst und zu anderen freundlich sein"
+    ],
+    "enVariants": [
+      "solve problems"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "Gefühle zeigen/verstehen",
+    "en": "be friendly to oneself and to the others",
+    "deVariants": [
+      "Gefühle zeigen/verstehen",
+      "Gefühle zeigen",
+      "verstehen"
+    ],
+    "enVariants": [
+      "be friendly to oneself and to the others"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "sich (über Misserfolge) ärgern, der Ärger",
+    "en": "show/understand feelings",
+    "deVariants": [
+      "sich (über Misserfolge) ärgern, der Ärger"
+    ],
+    "enVariants": [
+      "show/understand feelings",
+      "show",
+      "understand feelings"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "sich (über Blumen) freuen, die Freude",
+    "en": "be angry (about failures), anger",
+    "deVariants": [
+      "sich (über Blumen) freuen, die Freude"
+    ],
+    "enVariants": [
+      "be angry (about failures), anger"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "(mit einem Resultat) zufrieden sein, die Zufriedenheit",
+    "en": "be happy (about flowers), happiness",
+    "deVariants": [
+      "(mit einem Resultat) zufrieden sein, die Zufriedenheit"
+    ],
+    "enVariants": [
+      "be happy (about flowers), happiness"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "(auf andere Autofahrer) wütend sein, die Wut",
+    "en": "be satisfied (with a result), satisfaction",
+    "deVariants": [
+      "(auf andere Autofahrer) wütend sein, die Wut"
+    ],
+    "enVariants": [
+      "be satisfied (with a result), satisfaction"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "(über eine schlechte Note) traurig sein, die Trauer",
+    "en": "be mad (at other car drivers), rage",
+    "deVariants": [
+      "(über eine schlechte Note) traurig sein, die Trauer"
+    ],
+    "enVariants": [
+      "be mad (at other car drivers), rage"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "überrascht sein, die Überraschung",
+    "en": "be sad (about a bad mark), sadness",
+    "deVariants": [
+      "überrascht sein, die Überraschung"
+    ],
+    "enVariants": [
+      "be sad (about a bad mark), sadness"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "Angst vor Misserfolgen haben",
+    "en": "be surprised, surprise",
+    "deVariants": [
+      "Angst vor Misserfolgen haben"
+    ],
+    "enVariants": [
+      "be surprised, surprise"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "„Jeder ist seines Glückes Schmied.“",
+    "en": "be scared of failure",
+    "deVariants": [
+      "„Jeder ist seines Glückes Schmied.“"
+    ],
+    "enVariants": [
+      "be scared of failure"
+    ],
+    "topic": "Positives Denken und Gefühle"
+  },
+  {
+    "de": "in einem Hotel übernachten",
+    "en": "stay at a hotel overnight",
+    "deVariants": [
+      "in einem Hotel übernachten"
+    ],
+    "enVariants": [
+      "stay at a hotel overnight"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "ein Museum besuchen",
+    "en": "visit a museum",
+    "deVariants": [
+      "ein Museum besuchen"
+    ],
+    "enVariants": [
+      "visit a museum"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Sehenswürdigkeiten/historische Gebäude besichtigen/bewundern",
+    "en": "go to the opera/to the theatre/to a concert",
+    "deVariants": [
+      "Sehenswürdigkeiten/historische Gebäude besichtigen/bewundern",
+      "Sehenswürdigkeiten",
+      "historische Gebäude besichtigen",
+      "bewundern"
+    ],
+    "enVariants": [
+      "go to the opera/to the theatre/to a concert",
+      "go to the opera",
+      "to the theatre",
+      "to a concert"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "einkaufen gehen",
+    "en": "visit/admire monuments/historical buildings",
+    "deVariants": [
+      "einkaufen gehen"
+    ],
+    "enVariants": [
+      "visit/admire monuments/historical buildings",
+      "visit",
+      "admire monuments",
+      "historical buildings"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Andenken für Freunde/die Familie kaufen",
+    "en": "go shopping",
+    "deVariants": [
+      "Andenken für Freunde/die Familie kaufen",
+      "Andenken für Freunde",
+      "die Familie kaufen"
+    ],
+    "enVariants": [
+      "go shopping"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "durch die Innenstadt/Altstadt laufen",
+    "en": "buy souvenirs for friends/family",
+    "deVariants": [
+      "durch die Innenstadt/Altstadt laufen",
+      "durch die Innenstadt",
+      "Altstadt laufen"
+    ],
+    "enVariants": [
+      "buy souvenirs for friends/family",
+      "buy souvenirs for friends",
+      "family"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "in einer Markthalle zu Mittag essen",
+    "en": "walk through the city centre/historical centre",
+    "deVariants": [
+      "in einer Markthalle zu Mittag essen"
+    ],
+    "enVariants": [
+      "walk through the city centre/historical centre",
+      "walk through the city centre",
+      "historical centre"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Fotos machen/betrachten/löschen",
+    "en": "take part in a city tour",
+    "deVariants": [
+      "Fotos machen/betrachten/löschen",
+      "Fotos machen",
+      "betrachten",
+      "löschen"
+    ],
+    "enVariants": [
+      "take part in a city tour"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Fotos auswählen/posten",
+    "en": "have lunch at a market hall",
+    "deVariants": [
+      "Fotos auswählen/posten",
+      "Fotos auswählen",
+      "posten"
+    ],
+    "enVariants": [
+      "have lunch at a market hall"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Objekte im Museum fotografieren",
+    "en": "take/look at/delete photographs",
+    "deVariants": [
+      "Objekte im Museum fotografieren"
+    ],
+    "enVariants": [
+      "take/look at/delete photographs",
+      "take",
+      "look at",
+      "delete photographs"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "mehr Spaß haben",
+    "en": "choose/post photographs",
+    "deVariants": [
+      "mehr Spaß haben"
+    ],
+    "enVariants": [
+      "choose/post photographs",
+      "choose",
+      "post photographs"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Aktivitäten intensiver erleben",
+    "en": "take photographs of objects at a museum",
+    "deVariants": [
+      "Aktivitäten intensiver erleben"
+    ],
+    "enVariants": [
+      "take photographs of objects at a museum"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Der positive Effekt hält eine Woche an.",
+    "en": "send photos to friends via smartphone",
+    "deVariants": [
+      "Der positive Effekt hält eine Woche an."
+    ],
+    "enVariants": [
+      "send photos to friends via smartphone"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Vorschläge/Meinungsäußerung:",
+    "en": "have more fun",
+    "deVariants": [
+      "Vorschläge/Meinungsäußerung:",
+      "Vorschläge",
+      "Meinungsäußerung:"
+    ],
+    "enVariants": [
+      "have more fun"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Wir könnten/Ich würde gern (eine Stadtrundfahrt machen).",
+    "en": "experience activities more intensely",
+    "deVariants": [
+      "Wir könnten/Ich würde gern (eine Stadtrundfahrt machen).",
+      "Wir könnten",
+      "Ich würde gern (eine Stadtrundfahrt machen)."
+    ],
+    "enVariants": [
+      "experience activities more intensely"
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Wie wäre es, wenn wir (ins Museum gehen)?",
+    "en": "The positive effect lasts a week.",
+    "deVariants": [
+      "Wie wäre es, wenn wir (ins Museum gehen)?"
+    ],
+    "enVariants": [
+      "The positive effect lasts a week."
+    ],
+    "topic": "Städtereisen"
+  },
+  {
+    "de": "Die Wohnung ist (in der Inselstraße).",
+    "en": "The flat is (in Insel Street).",
+    "deVariants": [
+      "Die Wohnung ist (in der Inselstraße)."
+    ],
+    "enVariants": [
+      "The flat is (in Insel Street)."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Das Haus wurde (1980) gebaut.",
+    "en": "The house was built (in 1980).",
+    "deVariants": [
+      "Das Haus wurde (1980) gebaut."
+    ],
+    "enVariants": [
+      "The house was built (in 1980)."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Die Wohnung ist (40) Jahre alt/neu renoviert.",
+    "en": "The flat is (40) years old/recently renovated.",
+    "deVariants": [
+      "Die Wohnung ist (40) Jahre alt/neu renoviert.",
+      "Die Wohnung ist (40) Jahre alt",
+      "neu renoviert."
+    ],
+    "enVariants": [
+      "The flat is (40) years old/recently renovated.",
+      "The flat is (40) years old",
+      "recently renovated."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Die Wohnung ist (60) Quadratmeter groß und hat (zwei) Zimmer.",
+    "en": "The flat is (60) square meters and has (2) rooms.",
+    "deVariants": [
+      "Die Wohnung ist (60) Quadratmeter groß und hat (zwei) Zimmer."
+    ],
+    "enVariants": [
+      "The flat is (60) square meters and has (2) rooms."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Die Wohnung liegt (in der zweiten Etage).",
+    "en": "The flat is (on the second floor).",
+    "deVariants": [
+      "Die Wohnung liegt (in der zweiten Etage)."
+    ],
+    "enVariants": [
+      "The flat is (on the second floor)."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Die Kaltmiete beträgt (400 Euro).",
+    "en": "The rent is (400 euros).",
+    "deVariants": [
+      "Die Kaltmiete beträgt (400 Euro)."
+    ],
+    "enVariants": [
+      "The rent is (400 euros)."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Außerdem muss man noch Nebenkosten zahlen.",
+    "en": "On top of that, you have to pay additional costs.",
+    "deVariants": [
+      "Außerdem muss man noch Nebenkosten zahlen."
+    ],
+    "enVariants": [
+      "On top of that, you have to pay additional costs."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Die Wohnung kostet insgesamt (530 Euro) im Monat.",
+    "en": "The flat costs (530 euros) a month.",
+    "deVariants": [
+      "Die Wohnung kostet insgesamt (530 Euro) im Monat."
+    ],
+    "enVariants": [
+      "The flat costs (530 euros) a month."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Die Wohnung hat einen Balkon und eine Garage.",
+    "en": "The flat has a balcony and a garage.",
+    "deVariants": [
+      "Die Wohnung hat einen Balkon und eine Garage."
+    ],
+    "enVariants": [
+      "The flat has a balcony and a garage."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Es gibt keine Angaben zum Baujahr/zu den Nebenkosten.",
+    "en": "There is no information about the year of construction/additional costs.",
+    "deVariants": [
+      "Es gibt keine Angaben zum Baujahr/zu den Nebenkosten.",
+      "Es gibt keine Angaben zum Baujahr",
+      "zu den Nebenkosten."
+    ],
+    "enVariants": [
+      "There is no information about the year of construction/additional costs.",
+      "There is no information about the year of construction",
+      "additional costs."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Die Wohnung liegt im Zentrum/in einer ruhigen Gegend/in der Nähe der Universität.",
+    "en": "The flat is located at the city centre/in a quiet neighbourhood/near the university.",
+    "deVariants": [
+      "Die Wohnung liegt im Zentrum/in einer ruhigen Gegend/in der Nähe der Universität.",
+      "Die Wohnung liegt im Zentrum",
+      "in einer ruhigen Gegend",
+      "in der Nähe der Universität."
+    ],
+    "enVariants": [
+      "The flat is located at the city centre/in a quiet neighbourhood/near the university.",
+      "The flat is located at the city centre",
+      "in a quiet neighbourhood",
+      "near the university."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "Es gibt gute Einkaufsmöglichkeiten/viele Grünflächen/einen Park/einen Kindergarten.",
+    "en": "There are shopping facilities/many green areas/ a park/a kindergarten.",
+    "deVariants": [
+      "Es gibt gute Einkaufsmöglichkeiten/viele Grünflächen/einen Park/einen Kindergarten.",
+      "Es gibt gute Einkaufsmöglichkeiten",
+      "viele Grünflächen",
+      "einen Park",
+      "einen Kindergarten."
+    ],
+    "enVariants": [
+      "There are shopping facilities/many green areas/ a park/a kindergarten.",
+      "There are shopping facilities",
+      "many green areas",
+      "a park",
+      "a kindergarten."
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "in einer Wohngemeinschaft/WG wohnen",
+    "en": "share a flat with others",
+    "deVariants": [
+      "in einer Wohngemeinschaft/WG wohnen",
+      "in einer Wohngemeinschaft",
+      "WG wohnen"
+    ],
+    "enVariants": [
+      "share a flat with others"
+    ],
+    "topic": "Angaben zu einer Wohnung"
+  },
+  {
+    "de": "(210 000) Einwohner haben",
+    "en": "have (210 000) inhabitants",
+    "deVariants": [
+      "(210 000) Einwohner haben"
+    ],
+    "enVariants": [
+      "have (210 000) inhabitants"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "in der (Mitte von Deutschland) liegen",
+    "en": "be located in (the centre of Germany)",
+    "deVariants": [
+      "in der (Mitte von Deutschland) liegen"
+    ],
+    "enVariants": [
+      "be located in (the centre of Germany)"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "auf eine lange Geschichte zurückblicken",
+    "en": "have a long history",
+    "deVariants": [
+      "auf eine lange Geschichte zurückblicken"
+    ],
+    "enVariants": [
+      "have a long history"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "das Stadtrecht erhalten",
+    "en": "receive town privileges",
+    "deVariants": [
+      "das Stadtrecht erhalten"
+    ],
+    "enVariants": [
+      "receive town privileges"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "Der Name (Graz) leitet sich von (gradec) ab.",
+    "en": "The name (of Graz) derives from (gradec).",
+    "deVariants": [
+      "Der Name (Graz) leitet sich von (gradec) ab."
+    ],
+    "enVariants": [
+      "The name (of Graz) derives from (gradec)."
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "wichtig für die Entwicklung der Stadt sein",
+    "en": "be important for the development of the city",
+    "deVariants": [
+      "wichtig für die Entwicklung der Stadt sein"
+    ],
+    "enVariants": [
+      "be important for the development of the city"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "Die Universität wurde (1379) gegründet.",
+    "en": "The university was founded (in 1379).",
+    "deVariants": [
+      "Die Universität wurde (1379) gegründet."
+    ],
+    "enVariants": [
+      "The university was founded (in 1379)."
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "zu den ältesten Universitäten Europas zählen",
+    "en": "count amongst the oldest universities in Europe",
+    "deVariants": [
+      "zu den ältesten Universitäten Europas zählen"
+    ],
+    "enVariants": [
+      "count amongst the oldest universities in Europe"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "aus dem (13.) Jahrhundert stammen",
+    "en": "originate in the (13th) century",
+    "deVariants": [
+      "aus dem (13.) Jahrhundert stammen"
+    ],
+    "enVariants": [
+      "originate in the (13th) century"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "ein bedeutendes Bildungszentrum sein",
+    "en": "be an important educational centre",
+    "deVariants": [
+      "ein bedeutendes Bildungszentrum sein"
+    ],
+    "enVariants": [
+      "be an important educational centre"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "sich innerhalb der Stadtmauer/des Zentrums befinden",
+    "en": "be located within the city wall/in the centre",
+    "deVariants": [
+      "sich innerhalb der Stadtmauer/des Zentrums befinden",
+      "sich innerhalb der Stadtmauer",
+      "des Zentrums befinden"
+    ],
+    "enVariants": [
+      "be located within the city wall/in the centre",
+      "be located within the city wall",
+      "in the centre"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "besonders sehenswert/ein bedeutendes Bauwerk sein",
+    "en": "be a building worth seeing/be an important building",
+    "deVariants": [
+      "besonders sehenswert/ein bedeutendes Bauwerk sein",
+      "besonders sehenswert",
+      "ein bedeutendes Bauwerk sein"
+    ],
+    "enVariants": [
+      "be a building worth seeing/be an important building",
+      "be a building worth seeing",
+      "be an important building"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "ein mittelalterliches Bild zeigen",
+    "en": "look like in the middle ages",
+    "deVariants": [
+      "ein mittelalterliches Bild zeigen"
+    ],
+    "enVariants": [
+      "look like in the middle ages"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "die Geschichte der Stadt entdecken",
+    "en": "discover the history of the city",
+    "deVariants": [
+      "die Geschichte der Stadt entdecken"
+    ],
+    "enVariants": [
+      "discover the history of the city"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "zu den Sehenswürdigkeiten gehören",
+    "en": "be one of the monuments (lit. belong to the monuments)",
+    "deVariants": [
+      "zu den Sehenswürdigkeiten gehören"
+    ],
+    "enVariants": [
+      "be one of the monuments (lit. belong to the monuments)"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "ein Wahrzeichen der Stadt sein",
+    "en": "be a symbol of the city",
+    "deVariants": [
+      "ein Wahrzeichen der Stadt sein"
+    ],
+    "enVariants": [
+      "be a symbol of the city"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "zu einer Kunstmetropole werden",
+    "en": "perfectly fit into the city structure",
+    "deVariants": [
+      "zu einer Kunstmetropole werden"
+    ],
+    "enVariants": [
+      "perfectly fit into the city structure"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "als Standort der chemischen Industrie gelten",
+    "en": "become a hub for art",
+    "deVariants": [
+      "als Standort der chemischen Industrie gelten"
+    ],
+    "enVariants": [
+      "become a hub for art"
+    ],
+    "topic": "Historische Städte"
+  },
+  {
+    "de": "das Zimmer aufräumen/sauber machen",
+    "en": "tidy up/clean the room",
+    "deVariants": [
+      "das Zimmer aufräumen/sauber machen",
+      "das Zimmer aufräumen",
+      "sauber machen"
+    ],
+    "enVariants": [
+      "tidy up/clean the room",
+      "tidy up",
+      "clean the room"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "die Wände streichen",
+    "en": "paint the walls",
+    "deVariants": [
+      "die Wände streichen"
+    ],
+    "enVariants": [
+      "paint the walls"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "die Glühbirne wechseln",
+    "en": "change the light bulb",
+    "deVariants": [
+      "die Glühbirne wechseln"
+    ],
+    "enVariants": [
+      "change the light bulb"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "den Herd anschließen",
+    "en": "connect the stove",
+    "deVariants": [
+      "den Herd anschließen"
+    ],
+    "enVariants": [
+      "connect the stove"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "Blumen pflanzen, den Rasen mähen",
+    "en": "plant flowers, cut the grass",
+    "deVariants": [
+      "Blumen pflanzen, den Rasen mähen"
+    ],
+    "enVariants": [
+      "plant flowers, cut the grass"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "ein Bücherregal bauen",
+    "en": "build a bookshelf",
+    "deVariants": [
+      "ein Bücherregal bauen"
+    ],
+    "enVariants": [
+      "build a bookshelf"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "Fenster putzen, Wäsche bügeln",
+    "en": "clean the windows, iron clothes",
+    "deVariants": [
+      "Fenster putzen, Wäsche bügeln"
+    ],
+    "enVariants": [
+      "clean the windows, iron clothes"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "das Waschbecken reparieren lassen",
+    "en": "have the wash basin repaired",
+    "deVariants": [
+      "das Waschbecken reparieren lassen"
+    ],
+    "enVariants": [
+      "have the wash basin repaired"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "den Nachbarn etwas leihen",
+    "en": "lend something to the neighbours",
+    "deVariants": [
+      "den Nachbarn etwas leihen"
+    ],
+    "enVariants": [
+      "lend something to the neighbours"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "die Nachbarn einladen",
+    "en": "invite the neighbours",
+    "deVariants": [
+      "die Nachbarn einladen"
+    ],
+    "enVariants": [
+      "invite the neighbours"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "Die Hilfsbereitschaft steigt.",
+    "en": "look after children",
+    "deVariants": [
+      "Die Hilfsbereitschaft steigt."
+    ],
+    "enVariants": [
+      "look after children"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "im Wohnzimmer stehen – etwas ins Wohnzimmer stellen",
+    "en": "The willingness to help is increasing.",
+    "deVariants": [
+      "im Wohnzimmer stehen – etwas ins Wohnzimmer stellen"
+    ],
+    "enVariants": [
+      "The willingness to help is increasing."
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "auf dem Schreibtisch liegen – etwas auf den Schreibtisch legen",
+    "en": "stand in the living-room – place something into the living-room",
+    "deVariants": [
+      "auf dem Schreibtisch liegen – etwas auf den Schreibtisch legen"
+    ],
+    "enVariants": [
+      "stand in the living-room – place something into the living-room"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "auf dem Stuhl sitzen – sich auf den Stuhl setzen",
+    "en": "lie on the desk – lay/put something on the desk",
+    "deVariants": [
+      "auf dem Stuhl sitzen – sich auf den Stuhl setzen"
+    ],
+    "enVariants": [
+      "lie on the desk – lay/put something on the desk",
+      "lie on the desk – lay",
+      "put something on the desk"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "im Schrank hängen – etwas in den Schrank hängen",
+    "en": "sit on a chair – sit down on a chair",
+    "deVariants": [
+      "im Schrank hängen – etwas in den Schrank hängen"
+    ],
+    "enVariants": [
+      "sit on a chair – sit down on a chair"
+    ],
+    "topic": "Tätigkeiten in einer Wohnung/einem Haus"
+  },
+  {
+    "de": "(den Weihnachtsbaum) mit dem Fest verbinden",
+    "en": "be the most important family celebration in Germany",
+    "deVariants": [
+      "(den Weihnachtsbaum) mit dem Fest verbinden"
+    ],
+    "enVariants": [
+      "be the most important family celebration in Germany"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "Geschenke am Heiligen Abend überreichen/unter den Weihnachtsbaum legen",
+    "en": "associate (the Christmas tree) with the celebration",
+    "deVariants": [
+      "Geschenke am Heiligen Abend überreichen/unter den Weihnachtsbaum legen",
+      "Geschenke am Heiligen Abend überreichen",
+      "unter den Weihnachtsbaum legen"
+    ],
+    "enVariants": [
+      "associate (the Christmas tree) with the celebration"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "zu den ältesten Weihnachtsmärkten zählen",
+    "en": "give presents on Christmas Eve/lay presents under the Christmas tree",
+    "deVariants": [
+      "zu den ältesten Weihnachtsmärkten zählen"
+    ],
+    "enVariants": [
+      "give presents on Christmas Eve/lay presents under the Christmas tree",
+      "give presents on Christmas Eve",
+      "lay presents under the Christmas tree"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "eine lange Tradition haben",
+    "en": "count amongst the oldest Christmas markets",
+    "deVariants": [
+      "eine lange Tradition haben"
+    ],
+    "enVariants": [
+      "count amongst the oldest Christmas markets"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "in historischen Dokumenten erwähnt werden",
+    "en": "have a long tradition",
+    "deVariants": [
+      "in historischen Dokumenten erwähnt werden"
+    ],
+    "enVariants": [
+      "have a long tradition"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "sich im gesamten deutschen Sprachraum ausbreiten",
+    "en": "be mentioned in historical documents",
+    "deVariants": [
+      "sich im gesamten deutschen Sprachraum ausbreiten"
+    ],
+    "enVariants": [
+      "be mentioned in historical documents"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "ein fester Bestandteil der Weihnachtszeit sein",
+    "en": "spread to the entire German-speaking area",
+    "deVariants": [
+      "ein fester Bestandteil der Weihnachtszeit sein"
+    ],
+    "enVariants": [
+      "spread to the entire German-speaking area"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "Verkaufsstände für Spielzeug und andere Kleinigkeiten errichten",
+    "en": "be an integral part of the Christmas period",
+    "deVariants": [
+      "Verkaufsstände für Spielzeug und andere Kleinigkeiten errichten"
+    ],
+    "enVariants": [
+      "be an integral part of the Christmas period"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "ein wichtiger Wirtschaftsfaktor für die Region sein",
+    "en": "build up stands for toys and other small things",
+    "deVariants": [
+      "ein wichtiger Wirtschaftsfaktor für die Region sein"
+    ],
+    "enVariants": [
+      "build up stands for toys and other small things"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "von den Weihnachtsmärkten profitieren",
+    "en": "offer particular products",
+    "deVariants": [
+      "von den Weihnachtsmärkten profitieren"
+    ],
+    "enVariants": [
+      "offer particular products"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "Geld für Weihnachtsgeschenke ausgeben",
+    "en": "be an important economic factor for the region",
+    "deVariants": [
+      "Geld für Weihnachtsgeschenke ausgeben"
+    ],
+    "enVariants": [
+      "be an important economic factor for the region"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "die Liste der beliebtesten Geschenke anführen",
+    "en": "benefit from the Christmas markets",
+    "deVariants": [
+      "die Liste der beliebtesten Geschenke anführen"
+    ],
+    "enVariants": [
+      "benefit from the Christmas markets"
+    ],
+    "topic": "Weihnachtsfest und Weihnachtsmarkt"
+  },
+  {
+    "de": "Hardrock und Heavy Metal hören",
+    "en": "listen to hard rock and heavy metal",
+    "deVariants": [
+      "Hardrock und Heavy Metal hören"
+    ],
+    "enVariants": [
+      "listen to hard rock and heavy metal"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "das größte Heavy-Metal-Festival der Welt sein",
+    "en": "be the biggest heavy metal festival in the world",
+    "deVariants": [
+      "das größte Heavy-Metal-Festival der Welt sein"
+    ],
+    "enVariants": [
+      "be the biggest heavy metal festival in the world"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "auf eine Idee kommen",
+    "en": "have an idea, hit on an idea",
+    "deVariants": [
+      "auf eine Idee kommen"
+    ],
+    "enVariants": [
+      "have an idea, hit on an idea"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "ein Instrument spielen",
+    "en": "play an instrument",
+    "deVariants": [
+      "ein Instrument spielen"
+    ],
+    "enVariants": [
+      "play an instrument"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "ein Festival (privat) organisieren",
+    "en": "organise a (private) festival",
+    "deVariants": [
+      "ein Festival (privat) organisieren"
+    ],
+    "enVariants": [
+      "organise a (private) festival"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "ein Konzert geben",
+    "en": "give a concert",
+    "deVariants": [
+      "ein Konzert geben"
+    ],
+    "enVariants": [
+      "give a concert"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "eine Wiese für das Festival vermieten",
+    "en": "rent a meadow for the festival",
+    "deVariants": [
+      "eine Wiese für das Festival vermieten"
+    ],
+    "enVariants": [
+      "rent a meadow for the festival"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "Toiletten und Duschen stehen bereit.",
+    "en": "celebrate the first financial success",
+    "deVariants": [
+      "Toiletten und Duschen stehen bereit."
+    ],
+    "enVariants": [
+      "celebrate the first financial success"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "über acht Bühnen verfügen",
+    "en": "Toilets and showers are available.",
+    "deVariants": [
+      "über acht Bühnen verfügen"
+    ],
+    "enVariants": [
+      "Toilets and showers are available."
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "sich über das Wachstum des Festivals freuen",
+    "en": "have eight stages",
+    "deVariants": [
+      "sich über das Wachstum des Festivals freuen"
+    ],
+    "enVariants": [
+      "have eight stages"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "mit dem Verkauf von Bier Geld verdienen",
+    "en": "be happy about the growth of the festival",
+    "deVariants": [
+      "mit dem Verkauf von Bier Geld verdienen"
+    ],
+    "enVariants": [
+      "be happy about the growth of the festival"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "Die Zahl der Zuschauer steigt langsam an.",
+    "en": "work as a helper at the festival",
+    "deVariants": [
+      "Die Zahl der Zuschauer steigt langsam an."
+    ],
+    "enVariants": [
+      "work as a helper at the festival"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "Die Eintrittskarten sind ausverkauft.",
+    "en": "earn money by selling beer",
+    "deVariants": [
+      "Die Eintrittskarten sind ausverkauft."
+    ],
+    "enVariants": [
+      "earn money by selling beer"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "Die Ausgaben sind höher als die Einnahmen.",
+    "en": "have return on investment",
+    "deVariants": [
+      "Die Ausgaben sind höher als die Einnahmen."
+    ],
+    "enVariants": [
+      "have return on investment"
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "Die Besucherzahlen nehmen zu.",
+    "en": "Bus tours are organised.",
+    "deVariants": [
+      "Die Besucherzahlen nehmen zu."
+    ],
+    "enVariants": [
+      "Bus tours are organised."
+    ],
+    "topic": "Musikfestivals"
+  },
+  {
+    "de": "ein wichtiges/besonderes/großes Fest sein",
+    "en": "be an important/special/big festival",
+    "deVariants": [
+      "ein wichtiges/besonderes/großes Fest sein",
+      "ein wichtiges",
+      "besonderes",
+      "großes Fest sein"
+    ],
+    "enVariants": [
+      "be an important/special/big festival",
+      "be an important",
+      "special",
+      "big festival"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "jedes Jahr (seit 1810) (im August) stattfinden",
+    "en": "take place every year (in August, since 1810)",
+    "deVariants": [
+      "jedes Jahr (seit 1810) (im August) stattfinden"
+    ],
+    "enVariants": [
+      "take place every year (in August, since 1810)"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "auf ein Fest stolz sein",
+    "en": "be proud of a festival",
+    "deVariants": [
+      "auf ein Fest stolz sein"
+    ],
+    "enVariants": [
+      "be proud of a festival"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "die Hauptattraktion auf/das Besondere an einem Fest sein",
+    "en": "be the main attraction/the special thing at a festival",
+    "deVariants": [
+      "die Hauptattraktion auf/das Besondere an einem Fest sein",
+      "die Hauptattraktion auf",
+      "das Besondere an einem Fest sein"
+    ],
+    "enVariants": [
+      "be the main attraction/the special thing at a festival",
+      "be the main attraction",
+      "the special thing at a festival"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "eine Tracht (ein Dirndl oder eine Lederhose) tragen",
+    "en": "wear traditional costume (dirndl dresses and leather pants)",
+    "deVariants": [
+      "eine Tracht (ein Dirndl oder eine Lederhose) tragen"
+    ],
+    "enVariants": [
+      "wear traditional costume (dirndl dresses and leather pants)"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "sich mit Freunden amüsieren",
+    "en": "have a good time with friends",
+    "deVariants": [
+      "sich mit Freunden amüsieren"
+    ],
+    "enVariants": [
+      "have a good time with friends"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "für Kinder/Familien (nicht) geeignet sein",
+    "en": "be (un)suitable for children/families",
+    "deVariants": [
+      "für Kinder/Familien (nicht) geeignet sein",
+      "für Kinder",
+      "Familien (nicht) geeignet sein"
+    ],
+    "enVariants": [
+      "be (un)suitable for children/families",
+      "be (un)suitable for children",
+      "families"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "Schiffe/Tanzgruppen sehen können",
+    "en": "be able to see ships/dance groups",
+    "deVariants": [
+      "Schiffe/Tanzgruppen sehen können",
+      "Schiffe",
+      "Tanzgruppen sehen können"
+    ],
+    "enVariants": [
+      "be able to see ships/dance groups",
+      "be able to see ships",
+      "dance groups"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "eine Fahrt mit dem Schiff/mit dem Riesenrad machen",
+    "en": "make a tour by boat/with the Ferris wheel",
+    "deVariants": [
+      "eine Fahrt mit dem Schiff/mit dem Riesenrad machen",
+      "eine Fahrt mit dem Schiff",
+      "mit dem Riesenrad machen"
+    ],
+    "enVariants": [
+      "make a tour by boat/with the Ferris wheel",
+      "make a tour by boat",
+      "with the Ferris wheel"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "etwas (nicht so) interessant finden",
+    "en": "visit cruise ships/sailing boats",
+    "deVariants": [
+      "etwas (nicht so) interessant finden"
+    ],
+    "enVariants": [
+      "visit cruise ships/sailing boats",
+      "visit cruise ships",
+      "sailing boats"
+    ],
+    "topic": "Volksfeste"
+  },
+  {
+    "de": "Kultur mit allen Sinnen erleben",
+    "en": "experience culture through all senses",
+    "deVariants": [
+      "Kultur mit allen Sinnen erleben"
+    ],
+    "enVariants": [
+      "experience culture through all senses"
+    ],
+    "topic": "Kulturveranstaltungen"
+  },
+  {
+    "de": "aus dem neuesten Buch lesen",
+    "en": "read from one's newest book",
+    "deVariants": [
+      "aus dem neuesten Buch lesen"
+    ],
+    "enVariants": [
+      "read from one's newest book"
+    ],
+    "topic": "Kulturveranstaltungen"
+  },
+  {
+    "de": "sich im Saal bewegen",
+    "en": "attract many visitors",
+    "deVariants": [
+      "sich im Saal bewegen"
+    ],
+    "enVariants": [
+      "attract many visitors"
+    ],
+    "topic": "Kulturveranstaltungen"
+  },
+  {
+    "de": "mit dem Publikum spielen",
+    "en": "move around in the room",
+    "deVariants": [
+      "mit dem Publikum spielen"
+    ],
+    "enVariants": [
+      "move around in the room"
+    ],
+    "topic": "Kulturveranstaltungen"
+  },
+  {
+    "de": "spannende Aufführungen zeigen",
+    "en": "play with the public",
+    "deVariants": [
+      "spannende Aufführungen zeigen"
+    ],
+    "enVariants": [
+      "play with the public"
+    ],
+    "topic": "Kulturveranstaltungen"
+  },
+  {
+    "de": "eine Veranstaltung über Architektur anbieten",
+    "en": "show exciting shows",
+    "deVariants": [
+      "eine Veranstaltung über Architektur anbieten"
+    ],
+    "enVariants": [
+      "show exciting shows"
+    ],
+    "topic": "Kulturveranstaltungen"
+  },
+  {
+    "de": "ein Stück erarbeiten",
+    "en": "revive the golden age",
+    "deVariants": [
+      "ein Stück erarbeiten"
+    ],
+    "enVariants": [
+      "revive the golden age"
+    ],
+    "topic": "Kulturveranstaltungen"
+  },
+  {
+    "de": "Premiere haben",
+    "en": "offer an event about architecture",
+    "deVariants": [
+      "Premiere haben"
+    ],
+    "enVariants": [
+      "offer an event about architecture"
+    ],
+    "topic": "Kulturveranstaltungen"
+  }
+]
